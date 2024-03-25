@@ -1,0 +1,719 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+    <title>Motorbikes in Vietnam</title>
+  </head>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="noframework.waypoints.min.js"></script>
+  <script>
+    var population_color = "#3252a8";
+  </script>
+
+  <body>
+    <main>
+      <div>
+        <section id="intro">
+          <header>
+            <!-- <h1>Motorbikes in Vietnam</h1> -->
+          </header>
+
+          <img src="images/PXL_20240116_091229577.MP.jpg" />
+
+          <div id="map1" class="graphic">
+            <div class="graphic__vis">
+              <!-- TO DO - Show HCMC and Hanoi population centers -->
+              <script src="./viz/vietnam_map_viz.js"></script>
+            </div>
+            <div class="graphic__prose">
+              <p class="trigger" data-step="0"></p>
+              <p class="trigger" data-step="1">
+                When you travel around Vietnam and Southeast Asia broadly you
+                immediately see just about everyone getting around on motorbike
+              </p>
+              <p class="trigger" data-step="2">
+                As the country quickly grows, I wanted to better understand what
+                the impact of all these motorbikes on the environment and
+                society
+              </p>
+              <p class="padding_text">
+                How will this change in the coming years as Vietnam becomes
+                richer and our planet gets hotter?
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <section id="macroeconomics">
+          <div id="macro_lines" class="graphic">
+            <div class="graphic__prose">
+              <p class="padding_text"></p>
+              <p class="trigger" data-step="0"></p>
+              <p class="trigger" data-step="1">
+                Vietnam has experienced rapid population growth and economic
+                development through the end of the 20th century and into the
+                21st, going from 70 million people to 100 million in just the
+                last 30 years
+              </p>
+              <p class="trigger" data-step="2">
+                As the population and economy has grown, so has motorbike
+                ownership
+              </p>
+              <p class="trigger" data-step="3">And carbon emissions</p>
+            </div>
+            <div class="graphic__vis">
+              <script src="./viz/vietnam_macro_lines.js"></script>
+            </div>
+          </div>
+          <p class="padding_text"></p>
+          <div id="motorbike_ownership_bar" class="graphic">
+            <div class="graphic__vis" style="margin-left: 0; z-index: 0">
+              <script src="./viz/global_motorbike_ownership.js"></script>
+            </div>
+            <div class="graphic__prose">
+              <p class="trigger" data-step="0">
+                <b style="color: #5e4fa2">Southeast Asia's</b> motorbike
+                ownership has now far surpassed the rest of the world, with over
+                80% of households in owning a motorbike
+              </p>
+              <p class="trigger overlap-trigger" data-step="1">
+                Vietnam is second only to Thailand
+              </p>
+              <p class="padding_text"></p>
+            </div>
+          </div>
+        </section>
+
+        <section id="air_quality">
+          <div>
+            <p class="padding_text">
+              What has been the impact of all these motorbikes on carbon
+              emissions and air pollution?
+            </p>
+          </div>
+          <div id="carbon_emissions" class="graphic">
+            <div style="padding-top: 50vh"></div>
+            <div
+              id="us_vietnam_compare"
+              class="graphic__vis"
+              style="margin-left: 0; z-index: 0"
+            >
+              <script src="./viz/us_vietnam_compare.js"></script>
+            </div>
+            <div class="graphic__prose">
+              <p class="trigger" data-step="0">
+                In the United States, transportation is the second largest
+                source of carbon emissions.
+              </p>
+              <p
+                class="trigger overlap-trigger"
+                data-step="1"
+                style="z-index: 1"
+              >
+                Vietnam is a lower-middle income country going through rapid
+                industrialization. Its total emissions are much less than those
+                of the US, but are growing quickly
+              </p>
+              <p class="padding_text"></p>
+              <p
+                class="trigger overlap-trigger"
+                data-step="2"
+                style="z-index: 1"
+              >
+                In this industrialization phase, which the US is long past,
+                coal-fired energy generation and manufacturing dominate
+                greenhouse gas production
+              </p>
+              <p class="padding_text"></p>
+            </div>
+          </div>
+          <p class="padding_text"></p>
+          <div>
+            <p class="padding_text">
+              However, air pollution is more than just greenhouse gases
+            </p>
+            <p class="padding_text">
+              If we expand beyond just CO2 to look at air pollution broadly,
+              transportation dominates, especially if we focus in on cities
+            </p>
+          </div>
+          <div id="particulate_composition" class="graphic">
+            <div style="padding-top: 50vh"></div>
+            <div id="vehicle_pie" class="graphic__vis">
+              <script src="./viz/vietnam_vehicle_pie.js"></script>
+            </div>
+            <div class="graphic__prose">
+              <p class="trigger" data-step="0">
+                A 2020 study of Ho Chi Minh City attributed 95% of air pollution
+                to transportation sources, with trucks, cars, or motorbikes
+                dominating depending on which species of pollutant you looked at
+              </p>
+              <p class="trigger" data-step="1">
+                Motorcycles are responsible for pollutants like methane, carbon
+                monoxide, and black carbon
+              </p>
+              <p class="trigger" data-step="2">
+                On the other hand, trucks are responsible for the balance of PM
+                2.5 particulate matter
+              </p>
+            </div>
+            <div
+              class="trigger"
+              data-step="3"
+              id="pollutant_select"
+              style="display: block; width: 20%; margin-bottom: 50vh"
+            >
+              <button value="CO">CO</button>
+              <button value="NOx">NOx</button>
+              <button value="SO2">SO2</button>
+              <button value="CH4">CH4</button>
+              <button value="PM2.5">PM2.5</button>
+              <button value="PM10">PM10</button>
+              <button value="NMVOC">NMVOC</button>
+              <!-- <button value="BC">BC</button> -->
+              <button value="OC">Organic Carbon</button>
+              <button value="NH3">NH3</button>
+              <!-- <button value="N2O">N2O</button> -->
+              <button value="CO2">CO2</button>
+            </div>
+            <p class="padding_text"></p>
+          </div>
+        </section>
+
+        <section id="health">
+          <div id="health_impacts" class="graphic">
+            <div style="padding-top: 50vh"></div>
+            <div id="pmline" class="graphic__vis">
+              <script src="./viz/vietnam_air_quality.js"></script>
+            </div>
+            <div class="graphic__prose">
+              <p class="trigger" data-step="0">
+                This level of air pollution has resulted in an unhealthy
+                environment for everyday Vietnamese people
+              </p>
+              <p class="trigger" data-step="1">
+                If we look at the air quality in Hanoi in 2023, 306 days
+                exceeded the WHO recommended Air Quality Index for 2.5
+                micrometer Particulate Matter
+              </p>
+              <p class="trigger" data-step="2">
+                In comparison, New York City generally stayed in the safe range,
+                except during the Canadian wildfires in the summer
+              </p>
+            </div>
+          </div>
+
+          <div id="death_statistics" class="graphic">
+            <div style="padding-top: 50vh"></div>
+            <div class="graphic__prose">
+              <p class="trigger" data-step="0">
+                We see the consequences of this poor air quality in the death
+                statistics
+                <!-- TO DO: move footnote to appendix. footnote: for an in-depth look at air pollution and its impact
+                on human health, this article goes into much more detail:
+                <href src="https://ourworldindata.org/outdoor-air-pollution">
+                  Hannah Ritchie and Max Roser (2022) - "Outdoor Air
+                  Pollution"</href> -->
+              </p>
+              <p class="trigger" data-step="1">
+                Air pollution is the fourth highest cause of death in Vietnam
+              </p>
+              <!-- TO DO: add more commentary? -->
+            </div>
+            <div
+              id="health_bar_chart"
+              class="graphic__vis"
+              style="margin-left: 20rem"
+            >
+              <script src="./viz/vietnam_death_causes.js"></script>
+            </div>
+          </div>
+          <p class="padding_text"></p>
+
+          <div id="health_6" class="graphic">
+            <div style="padding-top: 50vh"></div>
+            <div class="graphic__prose">
+              <p class="trigger" data-step="0"></p>
+              <p class="trigger" data-step="1">
+                The country is quickly urbanizing - can it improve its urban air
+                quality fast enough to keep up with its population streaming
+                into its cities?
+              </p>
+            </div>
+            <div id="population_growth" class="graphic__vis">
+              <script src="./viz/vietnam_population_growth.js"></script>
+            </div>
+          </div>
+        </section>
+
+        <section id="outcomes">
+          <p class="padding_text">
+            One category of solutions is the implementation of strict tailpipe
+            emissions regulations
+          </p>
+          <div style="padding-top: 50vh"></div>
+          <div id="new_vehicles" class="graphic">
+            <div id="regulations_area" class="graphic__vis">
+              <script src="./viz/vietnam_motorbike_sales.js"></script>
+            </div>
+            <div class="graphic__prose">
+              <p class="padding_text"></p>
+              <!-- <p class="trigger" data-step="0"> -->
+              <p class="padding_text">
+                Vietnam implemented an emissions standard equivalent to the EU's
+                Euro 2 standard for motorbikes in 2007, and a Euro 3 equivalent
+                standard was implemented in 2017
+              </p>
+              <p class="padding_text">
+                However, as of 2024, while the Euro 5 guidelines apply to all
+                new cars sold since 2022,
+                <!-- <href
+                src="http://vama.org.vn/en/roadmap-to-apply-euro-5-emission-standard-in-vietnam-vama-members-are-ready-5964.html"
+                >citation</href
+                > -->
+                motorbikes are still regulated under Euro 3 standards, with Euro
+                4 level standards published but not mandatory
+              </p>
+              <p class="trigger" data-step="0">
+                Neither the Euro 2 nor Euro 3 standard regulates particulate
+                matter pollution
+              </p>
+              <p class="trigger" data-step="1">
+                Adoption of electric vehicles is still nascent
+              </p>
+              <p class="padding_text">
+                As of 2020 they represented approximately 8% of new two-wheeler
+                sales
+              </p>
+              <p class="trigger" data-step="2">
+                How will the adoption of cars impact this trajectory?
+              </p>
+              <p class="trigger" data-step="3">
+                Cars are currently owned by only a small minority of Vietnamese
+                households,
+              </p>
+              <p class="padding_text">
+                However, as people get wealthier they tend to shift to cars and
+                increase their carbon and physical footprint
+              </p>
+
+              <p class="padding_text"></p>
+            </div>
+          </div>
+          <div class="graphic">
+            <div
+              id="air_quality_map"
+              class="graphic__vis"
+              style="margin-left: 0"
+            >
+              <script src="./viz/air_quality_map.js"></script>
+            </div>
+            <div class="graphic__prose">
+              <p class="trigger" data-step="0">
+                When I first started to dig into this data, I was not expecting
+                to fall into the weeks long rabbit hole that I did
+              </p>
+              <p
+                style="
+                  min-height: 240px;
+                  padding-bottom: 150vh;
+                  font-size: 3vh;
+                  margin-left: 30rem;
+                  width: 24rem;
+                "
+              >
+                The analysis presented here is relatively crude, and every piece
+                of new information I learned opened up 4-5 new avenues to
+                explore that I couldn't fit into the scope here
+              </p>
+              <p
+                style="
+                  min-height: 240px;
+                  padding-bottom: 150vh;
+                  font-size: 3vh;
+                  margin-left: 30rem;
+                  width: 24rem;
+                "
+              >
+                So transportation is not as large a source of carbon emissions
+                for Vietnam as energy generation and manufacturing - what does
+                Vietnam's energy generation portfolio look like? What is its
+                path to a transition to renewables? How can it clean up its
+                industrial sector?
+              </p>
+              <p
+                style="
+                  min-height: 240px;
+                  padding-bottom: 150vh;
+                  font-size: 3vh;
+                  margin-left: 30rem;
+                  width: 24rem;
+                "
+              >
+                What about deforestation? What about the motorbike accident
+                rate, and how many people are injured as a result of the dense
+                traffic? What about policies to promote public transportation?
+              </p>
+              <p class="trigger overlap-trigger" data-step="1">
+                There was one thought that I kept coming back to - 3/4ths of the
+                global population lives in a middle income country like Vietnam
+              </p>
+              <p class="padding_text"></p>
+              <p class="trigger overlap-trigger" data-step="2">
+                They are all grappling with air pollution, and balancing it
+                against economic development
+              </p>
+              <p class="padding_text"></p>
+            </div>
+          </div>
+          <p class="padding_text"></p>
+          <img src="images/PXL_20240116_063110131.MP.jpg" />
+        </section>
+
+        <section id="appendix">
+          <a id="appendix"></a>
+          <h1>Notes and Methodology</h1>
+          <p>
+            Data on number of motorbikes and passenger cars had to be cobbled
+            together from different sources that each used different
+            methodologies, so there are discontinuities that would not stand up
+            to any kind of rigorous scrutiny, but is ballpark enough for my
+            informal purposes
+          </p>
+          <p>All photos my own, taken January 2024</p>
+          <h2 id="motorbike-data-sources-">On Data Visualization Choices:</h2>
+          <ul>
+            <li>
+              <p>
+                On using multiple axes on one chart:
+                <a
+                  href="https://observablehq.com/@tophtucker/dual-axes-are-a-great-way-to-show-correlation"
+                >
+                  Toph Tucker - Dual axes are a great way to show correlation</a
+                >
+              </p>
+            </li>
+          </ul>
+          <span>
+            <h2 id="motorbike-data-sources-">Motorbike data sources:</h2>
+            <ul>
+              <li>
+                <p>
+                  1991 - 2004:
+                  <a
+                    href="https://www.academia.edu/7106120/STUDY_ON_THE_OWNERSHIP_OF_MOTORCYCLES_AND_A_REGRESSION_MODEL_TO_FORECAST_VEHICLE_NUMBERS_IN_VIETNAM"
+                    >Nguyen, D. H. (2005). STUDY ON THE OWNERSHIP OF MOTORCYCLES
+                    AND A REGRESSION MODEL TO FORECAST VEHICLE NUMBERS IN
+                    VIETNAM. TSSV: Research Papers</a
+                  >
+                </p>
+              </li>
+              <li>
+                <p>
+                  2004 - 2014:
+                  <a href="https://doi.org/10.11175/easts.11.1945"
+                    >Nguyen, D. H., Duong, H. T., Nguyen, H. T., &amp; Nguyen,
+                    B. N. (2015). Motorcycles in Vietnam: Essential Data
+                    Estimated until 2014 and Different Impacts of Socio-economic
+                    Conditions on Their Growth for Long-and for Short-term.
+                    Journal of the Eastern Asia Society for Transportation
+                    Studies, 11.</a
+                  >
+                </p>
+              </li>
+              <li>
+                <p>
+                  2015 - 2020:
+                  <a
+                    href="https://data.aseanstats.org/indicator/ASE.TRP.ROD.B.011"
+                    >ASEAN Stats</a
+                  >
+                </p>
+              </li>
+              <li>
+                <p>
+                  Sales - 2007 - 2013:
+                  <a
+                    href="https://www.researchgate.net/publication/317414396_Public_policy_with_Vietnamese_characteristics_the_case_of_the_motorcycle_industry/"
+                    >Lim, Guanie. (2017). Public policy with Vietnamese
+                    characteristics: the case of the motorcycle industry.
+                    Journal of Asian Public Policy. 11. 1-19.
+                    10.1080/17516234.2017.1338326.</a
+                  >
+                </p>
+              </li>
+              <li>
+                Sales - 2014 - 2015:
+                <a
+                  href="https://www.statista.com/outlook/mmo/motorcycles/vietnam#unit-sales"
+                  >Statista</a
+                >
+              </li>
+              <li>
+                Sales - 2016 - 2020:
+                <a
+                  href="https://theicct.org/wp-content/uploads/2022/02/2w-vietnam-baseline-analysis-2019-and-2020.pdf"
+                  >International Council on Clean Transportation</a
+                >
+              </li>
+              <li>
+                <p>
+                  Electric Sales 2019 - 2020:
+                  <a
+                    href="https://theicct.org/wp-content/uploads/2022/02/2w-vietnam-baseline-analysis-2019-and-2020.pdf"
+                    >International Council on Clean Transportation</a
+                  >
+                </p>
+              </li>
+              <li>
+                <p>
+                  Pecent household ownership:
+                  <a
+                    href="https://www.worldatlas.com/articles/countries-that-ride-motorbikes.html"
+                    >World Atlas</a
+                  >
+                </p>
+              </li>
+            </ul>
+            <h2 id="car-data-sources-">Car data sources:</h2>
+            <ul>
+              <li>
+                <p>
+                  1991 - 2004:
+                  <a
+                    href="https://www.academia.edu/7106120/STUDY_ON_THE_OWNERSHIP_OF_MOTORCYCLES_AND_A_REGRESSION_MODEL_TO_FORECAST_VEHICLE_NUMBERS_IN_VIETNAM"
+                    >Nguyen, D. H. (2005). STUDY ON THE OWNERSHIP OF MOTORCYCLES
+                    AND A REGRESSION MODEL TO FORECAST VEHICLE NUMBERS IN
+                    VIETNAM. TSSV: Research Papers</a
+                  >
+                </p>
+              </li>
+              <li>
+                <p>
+                  2005 - 2015:
+                  <a
+                    href="https://www.ceicdata.com/en/indicator/vietnam/motor-vehicle-registered"
+                    >CEIC</a
+                  >
+                </p>
+              </li>
+              <li>
+                <p>
+                  2016 - 2019:
+                  <a
+                    href="https://www.nationmaster.com/nmx/timeseries/vietnam-global-passenger-cars-in-use"
+                    >Nationmaster</a
+                  >
+                </p>
+              </li>
+              <li>
+                <p>
+                  2021:
+                  <a
+                    href="https://vietnamnet.vn/en/most-vietnamese-need-about-12-years-of-savings-to-buy-a-car-2035656.html"
+                    >Vietnamnet</a
+                  >
+                </p>
+              </li>
+            </ul>
+            <h2 id="urbanization-data-sources-">Urbanization data sources:</h2>
+            <ul>
+              <li>
+                <p>
+                  1991 - 2004:
+                  <a
+                    href="https://www.academia.edu/7106120/STUDY_ON_THE_OWNERSHIP_OF_MOTORCYCLES_AND_A_REGRESSION_MODEL_TO_FORECAST_VEHICLE_NUMBERS_IN_VIETNAM"
+                    >Nguyen, D. H. (2005). STUDY ON THE OWNERSHIP OF MOTORCYCLES
+                    AND A REGRESSION MODEL TO FORECAST VEHICLE NUMBERS IN
+                    VIETNAM. TSSV: Research Papers</a
+                  >
+                </p>
+              </li>
+              <li>
+                <p>
+                  2004 - 2014:
+                  <a href="https://doi.org/10.11175/easts.11.1945"
+                    >Nguyen, D. H., Duong, H. T., Nguyen, H. T., &amp; Nguyen,
+                    B. N. (2015). Motorcycles in Vietnam: Essential Data
+                    Estimated until 2014 and Different Impacts of Socio-economic
+                    Conditions on Their Growth for Long-and for Short-term.
+                    Journal of the Eastern Asia Society for Transportation
+                    Studies, 11.</a
+                  >
+                </p>
+              </li>
+              <li>
+                <p>
+                  2015-2022:
+                  <a
+                    href="https://www.statista.com/statistics/444882/urbanization-in-vietnam/"
+                    >Statista</a
+                  >
+                </p>
+              </li>
+            </ul>
+            <h2 id="population-data-">Population data:</h2>
+            <ul>
+              <li>
+                <a href="https://www.gso.gov.vn/en"
+                  >General Statistics Office of Vietnam</a
+                >
+              </li>
+            </ul>
+            <h2 id="gdp-data-">GDP data:</h2>
+            <ul>
+              <li>
+                <p>
+                  GDP Per Capita:
+                  <a
+                    href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=VN"
+                    >World Bank</a
+                  >
+                </p>
+              </li>
+              <li>
+                <p>
+                  Country Income Classifications:
+                  <a
+                    href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups"
+                    >World Bank Income Groups</a
+                  >
+                </p>
+              </li>
+            </ul>
+            <h2 id="carbon-emissions-data-">Carbon emissions data:</h2>
+            <ul>
+              <li>
+                <p>
+                  Over time:
+                  <a
+                    href="https://data.worldbank.org/indicator/EN.ATM.CO2E.KT?end=2021&amp;locations=VN&amp;start=1961&amp;view=chart&amp;year=2019"
+                    >World Bank</a
+                  >
+                </p>
+              </li>
+              <li>
+                <p>
+                  By source:
+                  <a
+                    href="https://ourworldindata.org/grapher/ghg-emissions-by-sector?tab=table&amp;time=latest&amp;country=~VNM"
+                    >Climate Watch (2023) - with major processing by Our World
+                    in Data. "Land-use change and forestry" [dataset]. Climate
+                    Watch, "Greenhouse gas emissions by sector" [original
+                    data].</a
+                  >
+                </p>
+              </li>
+              <li>
+                <p>
+                  Energy composition:
+                  <a href="https://www.iea.org/countries/viet-nam/energy-mix"
+                    >IEA</a
+                  >
+                </p>
+              </li>
+            </ul>
+            <h2 id="particulate-matter-data-">Particulate matter data:</h2>
+            <ul>
+              <li>
+                <p>
+                  Pollution exposure:
+                  <a
+                    href="https://ourworldindata.org/grapher/exposure-pollution-above-who-targets?time=earliest..2017&amp;country=~VNM"
+                    >Our World in Data</a
+                  >
+                </p>
+              </li>
+              <li>
+                <p>
+                  Distribution:
+                  <a
+                    href="https://acp.copernicus.org/articles/21/2795/2021/acp-21-2795-2021.pdf"
+                    >Emission mapping of key sectors in Ho Chi Minh City,
+                    Vietnam, using satellite-derived urban land use data TTQ
+                    Nguyen, W Takeuchi, P Misra, S Hayashida Atmospheric
+                    Chemistry and Physics, 2021 acp.copernicus.org</a
+                  >
+                </p>
+              </li>
+              <li>
+                <p>
+                  Share of deaths due to outdoor air pollution:
+                  <a
+                    href="https://ourworldindata.org/grapher/share-deaths-outdoor-pollution"
+                    >Our World in Data</a
+                  >
+                </p>
+              </li>
+            </ul>
+            <h2 id="air-quality-data-">Air quality data:</h2>
+            <ul>
+              <li>
+                Historical PM 2.5 concentrations:
+                <a href="https://aqicn.org/historical/"
+                  >World Air Quality Historical Database</a
+                ><!-- * Historical AQI: [US Department of State](https://www.airnow.gov/international/us-embassies-and-consulates/#Vietnam$Hanoi) -->
+              </li>
+            </ul>
+            <h2 id="health-data-">Health data:</h2>
+            <ul>
+              <li>
+                Deaths by risk factor:
+                <a href="https://ourworldindata.org/outdoor-air-pollution"
+                  >Hannah Ritchie and Max Roser (2022) - "Outdoor Air Pollution"
+                  Published online at OurWorldInData.org. Retrieved from:
+                  &#39;https://ourworldindata.org/outdoor-air-pollution&#39;
+                  [Online Resource]</a
+                >
+              </li>
+            </ul>
+            <h2 id="geodata">Geodata</h2>
+            <ul>
+              <li>
+                <p>
+                  <a
+                    href="https://github.com/nguyenduy1133/Free-GIS-Data/blob/c1a1dc5adae1a80ecbff77ae88bd758801004de9/VietNam/Administrative/Provinces_included_Paracel_SpratlyIslands_combine.geojson?raw=true"
+                    >Province boundaries</a
+                  >
+                </p>
+              </li>
+              <li>
+                <p>
+                  <a
+                    href="https://data.opendevelopmentmekong.net/dataset/6f054351-bf2c-422e-8deb-0a511d63a315/resource/78b3fb31-8c96-47d3-af64-d1a6e168e2ea/download/diaphanhuyen.geojson"
+                    >Population by district</a
+                  >
+                </p>
+              </li>
+            </ul>
+          </span>
+          <div id="data_sources_1"></div>
+        </section>
+      </div>
+      <nav class="section-nav">
+        <ol>
+          <li><a href="#intro">Intro</a></li>
+          <li><a href="#macroeconomics">Macroeconomics</a></li>
+          <li><a href="#air_quality">Air Quality</a></li>
+          <li><a href="#health">Health</a></li>
+          <li><a href="#outcomes">Outcomes</a></li>
+          <li><a href="#appendix">Appendix</a></li>
+        </ol>
+      </nav>
+    </main>
+  </body>
+  <script src="scroll.js"></script>
+  <footer>
+    <div class="social-icons">
+      <a href="https://www.linkedin.com/in/liufranklin" target="_blank"
+        ><i class="fab fa-linkedin fa-2x"></i
+      ></a>
+      <a href="https://github.com/liufran1" target="_blank"
+        ><i class="fab fa-github fa-2x"></i
+      ></a>
+    </div>
+  </footer>
+</html>

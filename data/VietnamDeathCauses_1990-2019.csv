@@ -1,0 +1,841 @@
+Entity,Code,Year,variable,value,categories
+Vietnam,VNM,1990,high systolic blood pressure,76606.99,Health Conditions and Deficiencies
+Vietnam,VNM,1991,high systolic blood pressure,77228.67,Health Conditions and Deficiencies
+Vietnam,VNM,1992,high systolic blood pressure,77914.97,Health Conditions and Deficiencies
+Vietnam,VNM,1993,high systolic blood pressure,78750.484,Health Conditions and Deficiencies
+Vietnam,VNM,1994,high systolic blood pressure,79753.41,Health Conditions and Deficiencies
+Vietnam,VNM,1995,high systolic blood pressure,80920.16,Health Conditions and Deficiencies
+Vietnam,VNM,1996,high systolic blood pressure,82380.055,Health Conditions and Deficiencies
+Vietnam,VNM,1997,high systolic blood pressure,84078.32,Health Conditions and Deficiencies
+Vietnam,VNM,1998,high systolic blood pressure,86000.2,Health Conditions and Deficiencies
+Vietnam,VNM,1999,high systolic blood pressure,88333.95,Health Conditions and Deficiencies
+Vietnam,VNM,2000,high systolic blood pressure,90746.51,Health Conditions and Deficiencies
+Vietnam,VNM,2001,high systolic blood pressure,94198.33,Health Conditions and Deficiencies
+Vietnam,VNM,2002,high systolic blood pressure,98240.51,Health Conditions and Deficiencies
+Vietnam,VNM,2003,high systolic blood pressure,102876.58,Health Conditions and Deficiencies
+Vietnam,VNM,2004,high systolic blood pressure,107873.63,Health Conditions and Deficiencies
+Vietnam,VNM,2005,high systolic blood pressure,112655.1,Health Conditions and Deficiencies
+Vietnam,VNM,2006,high systolic blood pressure,117562.42,Health Conditions and Deficiencies
+Vietnam,VNM,2007,high systolic blood pressure,123207.336,Health Conditions and Deficiencies
+Vietnam,VNM,2008,high systolic blood pressure,128665.94,Health Conditions and Deficiencies
+Vietnam,VNM,2009,high systolic blood pressure,133769.0,Health Conditions and Deficiencies
+Vietnam,VNM,2010,high systolic blood pressure,137386.23,Health Conditions and Deficiencies
+Vietnam,VNM,2011,high systolic blood pressure,140529.73,Health Conditions and Deficiencies
+Vietnam,VNM,2012,high systolic blood pressure,143052.52,Health Conditions and Deficiencies
+Vietnam,VNM,2013,high systolic blood pressure,145329.9,Health Conditions and Deficiencies
+Vietnam,VNM,2014,high systolic blood pressure,147502.94,Health Conditions and Deficiencies
+Vietnam,VNM,2015,high systolic blood pressure,149183.66,Health Conditions and Deficiencies
+Vietnam,VNM,2016,high systolic blood pressure,151405.02,Health Conditions and Deficiencies
+Vietnam,VNM,2017,high systolic blood pressure,153703.1,Health Conditions and Deficiencies
+Vietnam,VNM,2018,high systolic blood pressure,156111.52,Health Conditions and Deficiencies
+Vietnam,VNM,2019,high systolic blood pressure,158375.45,Health Conditions and Deficiencies
+Vietnam,VNM,1990,diet high in sodium,21520.91,Diet-related Factors
+Vietnam,VNM,1991,diet high in sodium,21630.486,Diet-related Factors
+Vietnam,VNM,1992,diet high in sodium,21716.541,Diet-related Factors
+Vietnam,VNM,1993,diet high in sodium,21825.096,Diet-related Factors
+Vietnam,VNM,1994,diet high in sodium,21955.164,Diet-related Factors
+Vietnam,VNM,1995,diet high in sodium,22099.537,Diet-related Factors
+Vietnam,VNM,1996,diet high in sodium,22280.9,Diet-related Factors
+Vietnam,VNM,1997,diet high in sodium,22456.803,Diet-related Factors
+Vietnam,VNM,1998,diet high in sodium,22645.506,Diet-related Factors
+Vietnam,VNM,1999,diet high in sodium,22904.258,Diet-related Factors
+Vietnam,VNM,2000,diet high in sodium,23156.666,Diet-related Factors
+Vietnam,VNM,2001,diet high in sodium,23597.37,Diet-related Factors
+Vietnam,VNM,2002,diet high in sodium,24026.197,Diet-related Factors
+Vietnam,VNM,2003,diet high in sodium,24491.502,Diet-related Factors
+Vietnam,VNM,2004,diet high in sodium,25006.586,Diet-related Factors
+Vietnam,VNM,2005,diet high in sodium,25464.027,Diet-related Factors
+Vietnam,VNM,2006,diet high in sodium,25961.324,Diet-related Factors
+Vietnam,VNM,2007,diet high in sodium,26557.492,Diet-related Factors
+Vietnam,VNM,2008,diet high in sodium,27069.031,Diet-related Factors
+Vietnam,VNM,2009,diet high in sodium,27539.465,Diet-related Factors
+Vietnam,VNM,2010,diet high in sodium,27833.99,Diet-related Factors
+Vietnam,VNM,2011,diet high in sodium,28185.846,Diet-related Factors
+Vietnam,VNM,2012,diet high in sodium,28439.477,Diet-related Factors
+Vietnam,VNM,2013,diet high in sodium,28719.973,Diet-related Factors
+Vietnam,VNM,2014,diet high in sodium,29067.596,Diet-related Factors
+Vietnam,VNM,2015,diet high in sodium,29391.24,Diet-related Factors
+Vietnam,VNM,2016,diet high in sodium,30022.701,Diet-related Factors
+Vietnam,VNM,2017,diet high in sodium,30716.203,Diet-related Factors
+Vietnam,VNM,2018,diet high in sodium,31438.809,Diet-related Factors
+Vietnam,VNM,2019,diet high in sodium,32154.8,Diet-related Factors
+Vietnam,VNM,1990,diet low in whole grains,5397.065,Diet-related Factors
+Vietnam,VNM,1991,diet low in whole grains,5474.0967,Diet-related Factors
+Vietnam,VNM,1992,diet low in whole grains,5546.419,Diet-related Factors
+Vietnam,VNM,1993,diet low in whole grains,5634.53,Diet-related Factors
+Vietnam,VNM,1994,diet low in whole grains,5728.876,Diet-related Factors
+Vietnam,VNM,1995,diet low in whole grains,5828.9756,Diet-related Factors
+Vietnam,VNM,1996,diet low in whole grains,5948.6226,Diet-related Factors
+Vietnam,VNM,1997,diet low in whole grains,6044.4937,Diet-related Factors
+Vietnam,VNM,1998,diet low in whole grains,6149.112,Diet-related Factors
+Vietnam,VNM,1999,diet low in whole grains,6280.6455,Diet-related Factors
+Vietnam,VNM,2000,diet low in whole grains,6381.8477,Diet-related Factors
+Vietnam,VNM,2001,diet low in whole grains,6541.858,Diet-related Factors
+Vietnam,VNM,2002,diet low in whole grains,6720.5913,Diet-related Factors
+Vietnam,VNM,2003,diet low in whole grains,6925.9487,Diet-related Factors
+Vietnam,VNM,2004,diet low in whole grains,7156.6406,Diet-related Factors
+Vietnam,VNM,2005,diet low in whole grains,7389.3887,Diet-related Factors
+Vietnam,VNM,2006,diet low in whole grains,7632.346,Diet-related Factors
+Vietnam,VNM,2007,diet low in whole grains,7930.369,Diet-related Factors
+Vietnam,VNM,2008,diet low in whole grains,8245.894,Diet-related Factors
+Vietnam,VNM,2009,diet low in whole grains,8577.011,Diet-related Factors
+Vietnam,VNM,2010,diet low in whole grains,8857.187,Diet-related Factors
+Vietnam,VNM,2011,diet low in whole grains,9176.993,Diet-related Factors
+Vietnam,VNM,2012,diet low in whole grains,9499.754,Diet-related Factors
+Vietnam,VNM,2013,diet low in whole grains,9849.735,Diet-related Factors
+Vietnam,VNM,2014,diet low in whole grains,10193.61,Diet-related Factors
+Vietnam,VNM,2015,diet low in whole grains,10505.258,Diet-related Factors
+Vietnam,VNM,2016,diet low in whole grains,10846.976,Diet-related Factors
+Vietnam,VNM,2017,diet low in whole grains,11206.566,Diet-related Factors
+Vietnam,VNM,2018,diet low in whole grains,11574.551,Diet-related Factors
+Vietnam,VNM,2019,diet low in whole grains,11914.71,Diet-related Factors
+Vietnam,VNM,1990,alcohol use,5235.488,Substance Use
+Vietnam,VNM,1991,alcohol use,5423.2334,Substance Use
+Vietnam,VNM,1992,alcohol use,5690.017,Substance Use
+Vietnam,VNM,1993,alcohol use,6026.955,Substance Use
+Vietnam,VNM,1994,alcohol use,6417.7036,Substance Use
+Vietnam,VNM,1995,alcohol use,6831.501,Substance Use
+Vietnam,VNM,1996,alcohol use,7440.2793,Substance Use
+Vietnam,VNM,1997,alcohol use,8324.5625,Substance Use
+Vietnam,VNM,1998,alcohol use,9291.786,Substance Use
+Vietnam,VNM,1999,alcohol use,10434.963,Substance Use
+Vietnam,VNM,2000,alcohol use,11608.899,Substance Use
+Vietnam,VNM,2001,alcohol use,13191.067,Substance Use
+Vietnam,VNM,2002,alcohol use,15127.566,Substance Use
+Vietnam,VNM,2003,alcohol use,17323.434,Substance Use
+Vietnam,VNM,2004,alcohol use,19637.74,Substance Use
+Vietnam,VNM,2005,alcohol use,21891.826,Substance Use
+Vietnam,VNM,2006,alcohol use,24224.945,Substance Use
+Vietnam,VNM,2007,alcohol use,27132.803,Substance Use
+Vietnam,VNM,2008,alcohol use,30190.096,Substance Use
+Vietnam,VNM,2009,alcohol use,33201.156,Substance Use
+Vietnam,VNM,2010,alcohol use,35813.95,Substance Use
+Vietnam,VNM,2011,alcohol use,38276.152,Substance Use
+Vietnam,VNM,2012,alcohol use,40761.89,Substance Use
+Vietnam,VNM,2013,alcohol use,43220.215,Substance Use
+Vietnam,VNM,2014,alcohol use,45558.926,Substance Use
+Vietnam,VNM,2015,alcohol use,47427.605,Substance Use
+Vietnam,VNM,2016,alcohol use,49262.055,Substance Use
+Vietnam,VNM,2017,alcohol use,50803.297,Substance Use
+Vietnam,VNM,2018,alcohol use,51953.65,Substance Use
+Vietnam,VNM,2019,alcohol use,52984.324,Substance Use
+Vietnam,VNM,1990,diet low in fruits,9320.579,Diet-related Factors
+Vietnam,VNM,1991,diet low in fruits,9387.415,Diet-related Factors
+Vietnam,VNM,1992,diet low in fruits,9453.753,Diet-related Factors
+Vietnam,VNM,1993,diet low in fruits,9530.363,Diet-related Factors
+Vietnam,VNM,1994,diet low in fruits,9620.151,Diet-related Factors
+Vietnam,VNM,1995,diet low in fruits,9720.126,Diet-related Factors
+Vietnam,VNM,1996,diet low in fruits,9846.951,Diet-related Factors
+Vietnam,VNM,1997,diet low in fruits,9991.413,Diet-related Factors
+Vietnam,VNM,1998,diet low in fruits,10151.998,Diet-related Factors
+Vietnam,VNM,1999,diet low in fruits,10347.517,Diet-related Factors
+Vietnam,VNM,2000,diet low in fruits,10549.142,Diet-related Factors
+Vietnam,VNM,2001,diet low in fruits,10858.48,Diet-related Factors
+Vietnam,VNM,2002,diet low in fruits,11168.028,Diet-related Factors
+Vietnam,VNM,2003,diet low in fruits,11494.854,Diet-related Factors
+Vietnam,VNM,2004,diet low in fruits,11841.135,Diet-related Factors
+Vietnam,VNM,2005,diet low in fruits,12167.073,Diet-related Factors
+Vietnam,VNM,2006,diet low in fruits,12465.366,Diet-related Factors
+Vietnam,VNM,2007,diet low in fruits,12818.01,Diet-related Factors
+Vietnam,VNM,2008,diet low in fruits,13136.084,Diet-related Factors
+Vietnam,VNM,2009,diet low in fruits,13432.64,Diet-related Factors
+Vietnam,VNM,2010,diet low in fruits,13631.939,Diet-related Factors
+Vietnam,VNM,2011,diet low in fruits,13847.878,Diet-related Factors
+Vietnam,VNM,2012,diet low in fruits,14034.393,Diet-related Factors
+Vietnam,VNM,2013,diet low in fruits,14222.321,Diet-related Factors
+Vietnam,VNM,2014,diet low in fruits,14402.327,Diet-related Factors
+Vietnam,VNM,2015,diet low in fruits,14518.49,Diet-related Factors
+Vietnam,VNM,2016,diet low in fruits,14665.258,Diet-related Factors
+Vietnam,VNM,2017,diet low in fruits,14815.124,Diet-related Factors
+Vietnam,VNM,2018,diet low in fruits,14982.736,Diet-related Factors
+Vietnam,VNM,2019,diet low in fruits,15136.054,Diet-related Factors
+Vietnam,VNM,1990,unsafe water source,6475.0723,Environmental Factors
+Vietnam,VNM,1991,unsafe water source,6158.022,Environmental Factors
+Vietnam,VNM,1992,unsafe water source,5904.066,Environmental Factors
+Vietnam,VNM,1993,unsafe water source,5474.173,Environmental Factors
+Vietnam,VNM,1994,unsafe water source,5125.1475,Environmental Factors
+Vietnam,VNM,1995,unsafe water source,4741.094,Environmental Factors
+Vietnam,VNM,1996,unsafe water source,4326.3447,Environmental Factors
+Vietnam,VNM,1997,unsafe water source,3994.6665,Environmental Factors
+Vietnam,VNM,1998,unsafe water source,3721.2512,Environmental Factors
+Vietnam,VNM,1999,unsafe water source,3433.5757,Environmental Factors
+Vietnam,VNM,2000,unsafe water source,3163.334,Environmental Factors
+Vietnam,VNM,2001,unsafe water source,2894.3884,Environmental Factors
+Vietnam,VNM,2002,unsafe water source,2663.7886,Environmental Factors
+Vietnam,VNM,2003,unsafe water source,2516.679,Environmental Factors
+Vietnam,VNM,2004,unsafe water source,2382.001,Environmental Factors
+Vietnam,VNM,2005,unsafe water source,2235.6152,Environmental Factors
+Vietnam,VNM,2006,unsafe water source,2109.3718,Environmental Factors
+Vietnam,VNM,2007,unsafe water source,1983.3027,Environmental Factors
+Vietnam,VNM,2008,unsafe water source,1864.695,Environmental Factors
+Vietnam,VNM,2009,unsafe water source,1765.2097,Environmental Factors
+Vietnam,VNM,2010,unsafe water source,1670.362,Environmental Factors
+Vietnam,VNM,2011,unsafe water source,1586.3217,Environmental Factors
+Vietnam,VNM,2012,unsafe water source,1509.7539,Environmental Factors
+Vietnam,VNM,2013,unsafe water source,1441.2375,Environmental Factors
+Vietnam,VNM,2014,unsafe water source,1405.3052,Environmental Factors
+Vietnam,VNM,2015,unsafe water source,1370.4358,Environmental Factors
+Vietnam,VNM,2016,unsafe water source,1341.2815,Environmental Factors
+Vietnam,VNM,2017,unsafe water source,1325.3904,Environmental Factors
+Vietnam,VNM,2018,unsafe water source,1285.0924,Environmental Factors
+Vietnam,VNM,2019,unsafe water source,1250.5938,Environmental Factors
+Vietnam,VNM,1990,secondhand smoke,12334.019,Environmental Factors
+Vietnam,VNM,1991,secondhand smoke,12329.24,Environmental Factors
+Vietnam,VNM,1992,secondhand smoke,12316.824,Environmental Factors
+Vietnam,VNM,1993,secondhand smoke,12310.4375,Environmental Factors
+Vietnam,VNM,1994,secondhand smoke,12310.658,Environmental Factors
+Vietnam,VNM,1995,secondhand smoke,12342.352,Environmental Factors
+Vietnam,VNM,1996,secondhand smoke,12420.185,Environmental Factors
+Vietnam,VNM,1997,secondhand smoke,12563.711,Environmental Factors
+Vietnam,VNM,1998,secondhand smoke,12741.998,Environmental Factors
+Vietnam,VNM,1999,secondhand smoke,12957.759,Environmental Factors
+Vietnam,VNM,2000,secondhand smoke,13177.766,Environmental Factors
+Vietnam,VNM,2001,secondhand smoke,13487.141,Environmental Factors
+Vietnam,VNM,2002,secondhand smoke,13790.227,Environmental Factors
+Vietnam,VNM,2003,secondhand smoke,14147.339,Environmental Factors
+Vietnam,VNM,2004,secondhand smoke,14513.034,Environmental Factors
+Vietnam,VNM,2005,secondhand smoke,14830.732,Environmental Factors
+Vietnam,VNM,2006,secondhand smoke,15100.085,Environmental Factors
+Vietnam,VNM,2007,secondhand smoke,15341.173,Environmental Factors
+Vietnam,VNM,2008,secondhand smoke,15564.772,Environmental Factors
+Vietnam,VNM,2009,secondhand smoke,15785.235,Environmental Factors
+Vietnam,VNM,2010,secondhand smoke,15991.439,Environmental Factors
+Vietnam,VNM,2011,secondhand smoke,16315.476,Environmental Factors
+Vietnam,VNM,2012,secondhand smoke,16626.715,Environmental Factors
+Vietnam,VNM,2013,secondhand smoke,16969.04,Environmental Factors
+Vietnam,VNM,2014,secondhand smoke,17279.326,Environmental Factors
+Vietnam,VNM,2015,secondhand smoke,17582.047,Environmental Factors
+Vietnam,VNM,2016,secondhand smoke,17948.652,Environmental Factors
+Vietnam,VNM,2017,secondhand smoke,18323.688,Environmental Factors
+Vietnam,VNM,2018,secondhand smoke,18715.062,Environmental Factors
+Vietnam,VNM,2019,secondhand smoke,19085.412,Environmental Factors
+Vietnam,VNM,1990,low birth weight,26065.812,Health Conditions and Deficiencies
+Vietnam,VNM,1991,low birth weight,24993.79,Health Conditions and Deficiencies
+Vietnam,VNM,1992,low birth weight,23735.605,Health Conditions and Deficiencies
+Vietnam,VNM,1993,low birth weight,22410.574,Health Conditions and Deficiencies
+Vietnam,VNM,1994,low birth weight,21095.963,Health Conditions and Deficiencies
+Vietnam,VNM,1995,low birth weight,19809.842,Health Conditions and Deficiencies
+Vietnam,VNM,1996,low birth weight,18558.248,Health Conditions and Deficiencies
+Vietnam,VNM,1997,low birth weight,17329.25,Health Conditions and Deficiencies
+Vietnam,VNM,1998,low birth weight,16209.365,Health Conditions and Deficiencies
+Vietnam,VNM,1999,low birth weight,15228.892,Health Conditions and Deficiencies
+Vietnam,VNM,2000,low birth weight,14275.707,Health Conditions and Deficiencies
+Vietnam,VNM,2001,low birth weight,13418.702,Health Conditions and Deficiencies
+Vietnam,VNM,2002,low birth weight,12741.104,Health Conditions and Deficiencies
+Vietnam,VNM,2003,low birth weight,12222.521,Health Conditions and Deficiencies
+Vietnam,VNM,2004,low birth weight,11776.328,Health Conditions and Deficiencies
+Vietnam,VNM,2005,low birth weight,11390.735,Health Conditions and Deficiencies
+Vietnam,VNM,2006,low birth weight,11077.45,Health Conditions and Deficiencies
+Vietnam,VNM,2007,low birth weight,10868.286,Health Conditions and Deficiencies
+Vietnam,VNM,2008,low birth weight,10645.244,Health Conditions and Deficiencies
+Vietnam,VNM,2009,low birth weight,10408.391,Health Conditions and Deficiencies
+Vietnam,VNM,2010,low birth weight,10029.126,Health Conditions and Deficiencies
+Vietnam,VNM,2011,low birth weight,9573.956,Health Conditions and Deficiencies
+Vietnam,VNM,2012,low birth weight,8984.266,Health Conditions and Deficiencies
+Vietnam,VNM,2013,low birth weight,8348.059,Health Conditions and Deficiencies
+Vietnam,VNM,2014,low birth weight,7800.4917,Health Conditions and Deficiencies
+Vietnam,VNM,2015,low birth weight,7238.649,Health Conditions and Deficiencies
+Vietnam,VNM,2016,low birth weight,6734.8784,Health Conditions and Deficiencies
+Vietnam,VNM,2017,low birth weight,6235.0767,Health Conditions and Deficiencies
+Vietnam,VNM,2018,low birth weight,5723.4263,Health Conditions and Deficiencies
+Vietnam,VNM,2019,low birth weight,5286.4136,Health Conditions and Deficiencies
+Vietnam,VNM,1990,child wasting,15393.017,Health Conditions and Deficiencies
+Vietnam,VNM,1991,child wasting,14462.853,Health Conditions and Deficiencies
+Vietnam,VNM,1992,child wasting,13509.6,Health Conditions and Deficiencies
+Vietnam,VNM,1993,child wasting,12392.075,Health Conditions and Deficiencies
+Vietnam,VNM,1994,child wasting,11341.076,Health Conditions and Deficiencies
+Vietnam,VNM,1995,child wasting,10335.539,Health Conditions and Deficiencies
+Vietnam,VNM,1996,child wasting,9360.785,Health Conditions and Deficiencies
+Vietnam,VNM,1997,child wasting,8517.666,Health Conditions and Deficiencies
+Vietnam,VNM,1998,child wasting,7805.121,Health Conditions and Deficiencies
+Vietnam,VNM,1999,child wasting,7184.7085,Health Conditions and Deficiencies
+Vietnam,VNM,2000,child wasting,6667.3945,Health Conditions and Deficiencies
+Vietnam,VNM,2001,child wasting,6235.5415,Health Conditions and Deficiencies
+Vietnam,VNM,2002,child wasting,5860.319,Health Conditions and Deficiencies
+Vietnam,VNM,2003,child wasting,5418.1416,Health Conditions and Deficiencies
+Vietnam,VNM,2004,child wasting,4991.1353,Health Conditions and Deficiencies
+Vietnam,VNM,2005,child wasting,4733.585,Health Conditions and Deficiencies
+Vietnam,VNM,2006,child wasting,4461.865,Health Conditions and Deficiencies
+Vietnam,VNM,2007,child wasting,4251.585,Health Conditions and Deficiencies
+Vietnam,VNM,2008,child wasting,4030.7449,Health Conditions and Deficiencies
+Vietnam,VNM,2009,child wasting,3771.984,Health Conditions and Deficiencies
+Vietnam,VNM,2010,child wasting,3468.3032,Health Conditions and Deficiencies
+Vietnam,VNM,2011,child wasting,3164.1956,Health Conditions and Deficiencies
+Vietnam,VNM,2012,child wasting,2899.8306,Health Conditions and Deficiencies
+Vietnam,VNM,2013,child wasting,2701.4922,Health Conditions and Deficiencies
+Vietnam,VNM,2014,child wasting,2484.916,Health Conditions and Deficiencies
+Vietnam,VNM,2015,child wasting,2224.5134,Health Conditions and Deficiencies
+Vietnam,VNM,2016,child wasting,2028.2684,Health Conditions and Deficiencies
+Vietnam,VNM,2017,child wasting,1844.6858,Health Conditions and Deficiencies
+Vietnam,VNM,2018,child wasting,1685.4553,Health Conditions and Deficiencies
+Vietnam,VNM,2019,child wasting,1536.9879,Health Conditions and Deficiencies
+Vietnam,VNM,1990,unsafe sex,2586.864,Environmental Factors
+Vietnam,VNM,1991,unsafe sex,2663.8845,Environmental Factors
+Vietnam,VNM,1992,unsafe sex,2736.8096,Environmental Factors
+Vietnam,VNM,1993,unsafe sex,2977.7314,Environmental Factors
+Vietnam,VNM,1994,unsafe sex,3212.8308,Environmental Factors
+Vietnam,VNM,1995,unsafe sex,3430.236,Environmental Factors
+Vietnam,VNM,1996,unsafe sex,3902.9294,Environmental Factors
+Vietnam,VNM,1997,unsafe sex,4039.0486,Environmental Factors
+Vietnam,VNM,1998,unsafe sex,4252.755,Environmental Factors
+Vietnam,VNM,1999,unsafe sex,4516.698,Environmental Factors
+Vietnam,VNM,2000,unsafe sex,4800.5977,Environmental Factors
+Vietnam,VNM,2001,unsafe sex,5169.927,Environmental Factors
+Vietnam,VNM,2002,unsafe sex,5585.5137,Environmental Factors
+Vietnam,VNM,2003,unsafe sex,6048.9727,Environmental Factors
+Vietnam,VNM,2004,unsafe sex,6529.6875,Environmental Factors
+Vietnam,VNM,2005,unsafe sex,6984.2144,Environmental Factors
+Vietnam,VNM,2006,unsafe sex,7338.4185,Environmental Factors
+Vietnam,VNM,2007,unsafe sex,7422.167,Environmental Factors
+Vietnam,VNM,2008,unsafe sex,7276.14,Environmental Factors
+Vietnam,VNM,2009,unsafe sex,7065.0264,Environmental Factors
+Vietnam,VNM,2010,unsafe sex,7226.442,Environmental Factors
+Vietnam,VNM,2011,unsafe sex,7586.522,Environmental Factors
+Vietnam,VNM,2012,unsafe sex,7654.1455,Environmental Factors
+Vietnam,VNM,2013,unsafe sex,7594.5894,Environmental Factors
+Vietnam,VNM,2014,unsafe sex,7583.984,Environmental Factors
+Vietnam,VNM,2015,unsafe sex,7618.6343,Environmental Factors
+Vietnam,VNM,2016,unsafe sex,7607.609,Environmental Factors
+Vietnam,VNM,2017,unsafe sex,7553.086,Environmental Factors
+Vietnam,VNM,2018,unsafe sex,7507.4526,Environmental Factors
+Vietnam,VNM,2019,unsafe sex,7520.978,Environmental Factors
+Vietnam,VNM,1990,diet low in nuts and seeds,2761.5134,Diet-related Factors
+Vietnam,VNM,1991,diet low in nuts and seeds,2708.9749,Diet-related Factors
+Vietnam,VNM,1992,diet low in nuts and seeds,2639.94,Diet-related Factors
+Vietnam,VNM,1993,diet low in nuts and seeds,2560.8757,Diet-related Factors
+Vietnam,VNM,1994,diet low in nuts and seeds,2472.5198,Diet-related Factors
+Vietnam,VNM,1995,diet low in nuts and seeds,2376.4976,Diet-related Factors
+Vietnam,VNM,1996,diet low in nuts and seeds,2257.2703,Diet-related Factors
+Vietnam,VNM,1997,diet low in nuts and seeds,2107.188,Diet-related Factors
+Vietnam,VNM,1998,diet low in nuts and seeds,1942.6466,Diet-related Factors
+Vietnam,VNM,1999,diet low in nuts and seeds,1784.0062,Diet-related Factors
+Vietnam,VNM,2000,diet low in nuts and seeds,1627.9984,Diet-related Factors
+Vietnam,VNM,2001,diet low in nuts and seeds,1488.039,Diet-related Factors
+Vietnam,VNM,2002,diet low in nuts and seeds,1342.195,Diet-related Factors
+Vietnam,VNM,2003,diet low in nuts and seeds,1202.7311,Diet-related Factors
+Vietnam,VNM,2004,diet low in nuts and seeds,1079.5297,Diet-related Factors
+Vietnam,VNM,2005,diet low in nuts and seeds,983.6152,Diet-related Factors
+Vietnam,VNM,2006,diet low in nuts and seeds,905.33234,Diet-related Factors
+Vietnam,VNM,2007,diet low in nuts and seeds,832.45685,Diet-related Factors
+Vietnam,VNM,2008,diet low in nuts and seeds,768.1175,Diet-related Factors
+Vietnam,VNM,2009,diet low in nuts and seeds,719.63776,Diet-related Factors
+Vietnam,VNM,2010,diet low in nuts and seeds,692.25507,Diet-related Factors
+Vietnam,VNM,2011,diet low in nuts and seeds,685.67175,Diet-related Factors
+Vietnam,VNM,2012,diet low in nuts and seeds,682.43884,Diet-related Factors
+Vietnam,VNM,2013,diet low in nuts and seeds,684.5361,Diet-related Factors
+Vietnam,VNM,2014,diet low in nuts and seeds,690.9261,Diet-related Factors
+Vietnam,VNM,2015,diet low in nuts and seeds,701.8719,Diet-related Factors
+Vietnam,VNM,2016,diet low in nuts and seeds,721.5761,Diet-related Factors
+Vietnam,VNM,2017,diet low in nuts and seeds,742.6724,Diet-related Factors
+Vietnam,VNM,2018,diet low in nuts and seeds,758.913,Diet-related Factors
+Vietnam,VNM,2019,diet low in nuts and seeds,768.8064,Diet-related Factors
+Vietnam,VNM,1990,household air pollution from solid fuels,62611.266,Environmental Factors
+Vietnam,VNM,1991,household air pollution from solid fuels,61560.133,Environmental Factors
+Vietnam,VNM,1992,household air pollution from solid fuels,60352.625,Environmental Factors
+Vietnam,VNM,1993,household air pollution from solid fuels,59096.504,Environmental Factors
+Vietnam,VNM,1994,household air pollution from solid fuels,57848.11,Environmental Factors
+Vietnam,VNM,1995,household air pollution from solid fuels,56667.004,Environmental Factors
+Vietnam,VNM,1996,household air pollution from solid fuels,55536.293,Environmental Factors
+Vietnam,VNM,1997,household air pollution from solid fuels,54441.715,Environmental Factors
+Vietnam,VNM,1998,household air pollution from solid fuels,53375.426,Environmental Factors
+Vietnam,VNM,1999,household air pollution from solid fuels,52447.234,Environmental Factors
+Vietnam,VNM,2000,household air pollution from solid fuels,51625.543,Environmental Factors
+Vietnam,VNM,2001,household air pollution from solid fuels,51158.125,Environmental Factors
+Vietnam,VNM,2002,household air pollution from solid fuels,50619.332,Environmental Factors
+Vietnam,VNM,2003,household air pollution from solid fuels,50122.684,Environmental Factors
+Vietnam,VNM,2004,household air pollution from solid fuels,49603.777,Environmental Factors
+Vietnam,VNM,2005,household air pollution from solid fuels,48895.34,Environmental Factors
+Vietnam,VNM,2006,household air pollution from solid fuels,47991.32,Environmental Factors
+Vietnam,VNM,2007,household air pollution from solid fuels,47074.938,Environmental Factors
+Vietnam,VNM,2008,household air pollution from solid fuels,45991.625,Environmental Factors
+Vietnam,VNM,2009,household air pollution from solid fuels,44839.035,Environmental Factors
+Vietnam,VNM,2010,household air pollution from solid fuels,43513.906,Environmental Factors
+Vietnam,VNM,2011,household air pollution from solid fuels,42444.33,Environmental Factors
+Vietnam,VNM,2012,household air pollution from solid fuels,41363.723,Environmental Factors
+Vietnam,VNM,2013,household air pollution from solid fuels,40352.19,Environmental Factors
+Vietnam,VNM,2014,household air pollution from solid fuels,39279.24,Environmental Factors
+Vietnam,VNM,2015,household air pollution from solid fuels,38056.375,Environmental Factors
+Vietnam,VNM,2016,household air pollution from solid fuels,36941.266,Environmental Factors
+Vietnam,VNM,2017,household air pollution from solid fuels,35812.836,Environmental Factors
+Vietnam,VNM,2018,household air pollution from solid fuels,34591.758,Environmental Factors
+Vietnam,VNM,2019,household air pollution from solid fuels,33246.633,Environmental Factors
+Vietnam,VNM,1990,diet low in vegetables,6969.234,Diet-related Factors
+Vietnam,VNM,1991,diet low in vegetables,6908.5605,Diet-related Factors
+Vietnam,VNM,1992,diet low in vegetables,6814.0938,Diet-related Factors
+Vietnam,VNM,1993,diet low in vegetables,6701.559,Diet-related Factors
+Vietnam,VNM,1994,diet low in vegetables,6572.787,Diet-related Factors
+Vietnam,VNM,1995,diet low in vegetables,6429.358,Diet-related Factors
+Vietnam,VNM,1996,diet low in vegetables,6254.3296,Diet-related Factors
+Vietnam,VNM,1997,diet low in vegetables,6020.2227,Diet-related Factors
+Vietnam,VNM,1998,diet low in vegetables,5759.432,Diet-related Factors
+Vietnam,VNM,1999,diet low in vegetables,5513.6157,Diet-related Factors
+Vietnam,VNM,2000,diet low in vegetables,5283.315,Diet-related Factors
+Vietnam,VNM,2001,diet low in vegetables,5099.077,Diet-related Factors
+Vietnam,VNM,2002,diet low in vegetables,4889.3965,Diet-related Factors
+Vietnam,VNM,2003,diet low in vegetables,4690.383,Diet-related Factors
+Vietnam,VNM,2004,diet low in vegetables,4535.8276,Diet-related Factors
+Vietnam,VNM,2005,diet low in vegetables,4450.0303,Diet-related Factors
+Vietnam,VNM,2006,diet low in vegetables,4408.5674,Diet-related Factors
+Vietnam,VNM,2007,diet low in vegetables,4391.0034,Diet-related Factors
+Vietnam,VNM,2008,diet low in vegetables,4391.598,Diet-related Factors
+Vietnam,VNM,2009,diet low in vegetables,4430.333,Diet-related Factors
+Vietnam,VNM,2010,diet low in vegetables,4499.7246,Diet-related Factors
+Vietnam,VNM,2011,diet low in vegetables,4623.667,Diet-related Factors
+Vietnam,VNM,2012,diet low in vegetables,4764.9834,Diet-related Factors
+Vietnam,VNM,2013,diet low in vegetables,4928.9893,Diet-related Factors
+Vietnam,VNM,2014,diet low in vegetables,5100.007,Diet-related Factors
+Vietnam,VNM,2015,diet low in vegetables,5259.9824,Diet-related Factors
+Vietnam,VNM,2016,diet low in vegetables,5460.5293,Diet-related Factors
+Vietnam,VNM,2017,diet low in vegetables,5688.796,Diet-related Factors
+Vietnam,VNM,2018,diet low in vegetables,5908.986,Diet-related Factors
+Vietnam,VNM,2019,diet low in vegetables,6122.68,Diet-related Factors
+Vietnam,VNM,1990,smoking,50139.805,Substance Use
+Vietnam,VNM,1991,smoking,51464.656,Substance Use
+Vietnam,VNM,1992,smoking,52771.113,Substance Use
+Vietnam,VNM,1993,smoking,54018.85,Substance Use
+Vietnam,VNM,1994,smoking,55267.9,Substance Use
+Vietnam,VNM,1995,smoking,56493.13,Substance Use
+Vietnam,VNM,1996,smoking,57879.824,Substance Use
+Vietnam,VNM,1997,smoking,59376.625,Substance Use
+Vietnam,VNM,1998,smoking,60967.652,Substance Use
+Vietnam,VNM,1999,smoking,62650.86,Substance Use
+Vietnam,VNM,2000,smoking,64368.703,Substance Use
+Vietnam,VNM,2001,smoking,66636.65,Substance Use
+Vietnam,VNM,2002,smoking,68897.54,Substance Use
+Vietnam,VNM,2003,smoking,71174.836,Substance Use
+Vietnam,VNM,2004,smoking,73445.984,Substance Use
+Vietnam,VNM,2005,smoking,75516.55,Substance Use
+Vietnam,VNM,2006,smoking,77426.01,Substance Use
+Vietnam,VNM,2007,smoking,79610.984,Substance Use
+Vietnam,VNM,2008,smoking,81451.25,Substance Use
+Vietnam,VNM,2009,smoking,83105.984,Substance Use
+Vietnam,VNM,2010,smoking,84214.77,Substance Use
+Vietnam,VNM,2011,smoking,85691.66,Substance Use
+Vietnam,VNM,2012,smoking,86886.77,Substance Use
+Vietnam,VNM,2013,smoking,88162.66,Substance Use
+Vietnam,VNM,2014,smoking,89405.766,Substance Use
+Vietnam,VNM,2015,smoking,90356.11,Substance Use
+Vietnam,VNM,2016,smoking,91783.805,Substance Use
+Vietnam,VNM,2017,smoking,93378.45,Substance Use
+Vietnam,VNM,2018,smoking,95167.85,Substance Use
+Vietnam,VNM,2019,smoking,97073.51,Substance Use
+Vietnam,VNM,1990,high fasting plasma glucose,35203.266,Health Conditions and Deficiencies
+Vietnam,VNM,1991,high fasting plasma glucose,35806.098,Health Conditions and Deficiencies
+Vietnam,VNM,1992,high fasting plasma glucose,36503.81,Health Conditions and Deficiencies
+Vietnam,VNM,1993,high fasting plasma glucose,37273.277,Health Conditions and Deficiencies
+Vietnam,VNM,1994,high fasting plasma glucose,38124.418,Health Conditions and Deficiencies
+Vietnam,VNM,1995,high fasting plasma glucose,39081.52,Health Conditions and Deficiencies
+Vietnam,VNM,1996,high fasting plasma glucose,40266.406,Health Conditions and Deficiencies
+Vietnam,VNM,1997,high fasting plasma glucose,41764.402,Health Conditions and Deficiencies
+Vietnam,VNM,1998,high fasting plasma glucose,43463.863,Health Conditions and Deficiencies
+Vietnam,VNM,1999,high fasting plasma glucose,45326.016,Health Conditions and Deficiencies
+Vietnam,VNM,2000,high fasting plasma glucose,47299.676,Health Conditions and Deficiencies
+Vietnam,VNM,2001,high fasting plasma glucose,49746.81,Health Conditions and Deficiencies
+Vietnam,VNM,2002,high fasting plasma glucose,52524.027,Health Conditions and Deficiencies
+Vietnam,VNM,2003,high fasting plasma glucose,55585.297,Health Conditions and Deficiencies
+Vietnam,VNM,2004,high fasting plasma glucose,58736.56,Health Conditions and Deficiencies
+Vietnam,VNM,2005,high fasting plasma glucose,61727.574,Health Conditions and Deficiencies
+Vietnam,VNM,2006,high fasting plasma glucose,64621.875,Health Conditions and Deficiencies
+Vietnam,VNM,2007,high fasting plasma glucose,67723.69,Health Conditions and Deficiencies
+Vietnam,VNM,2008,high fasting plasma glucose,70760.055,Health Conditions and Deficiencies
+Vietnam,VNM,2009,high fasting plasma glucose,73761.26,Health Conditions and Deficiencies
+Vietnam,VNM,2010,high fasting plasma glucose,76440.05,Health Conditions and Deficiencies
+Vietnam,VNM,2011,high fasting plasma glucose,79569.36,Health Conditions and Deficiencies
+Vietnam,VNM,2012,high fasting plasma glucose,82783.42,Health Conditions and Deficiencies
+Vietnam,VNM,2013,high fasting plasma glucose,86069.97,Health Conditions and Deficiencies
+Vietnam,VNM,2014,high fasting plasma glucose,89460.984,Health Conditions and Deficiencies
+Vietnam,VNM,2015,high fasting plasma glucose,92391.44,Health Conditions and Deficiencies
+Vietnam,VNM,2016,high fasting plasma glucose,96070.945,Health Conditions and Deficiencies
+Vietnam,VNM,2017,high fasting plasma glucose,99616.93,Health Conditions and Deficiencies
+Vietnam,VNM,2018,high fasting plasma glucose,103088.055,Health Conditions and Deficiencies
+Vietnam,VNM,2019,high fasting plasma glucose,106477.734,Health Conditions and Deficiencies
+Vietnam,VNM,1990,air pollution,72703.516,Environmental Factors
+Vietnam,VNM,1991,air pollution,72049.375,Environmental Factors
+Vietnam,VNM,1992,air pollution,71266.34,Environmental Factors
+Vietnam,VNM,1993,air pollution,70473.734,Environmental Factors
+Vietnam,VNM,1994,air pollution,69740.28,Environmental Factors
+Vietnam,VNM,1995,air pollution,69132.63,Environmental Factors
+Vietnam,VNM,1996,air pollution,68631.76,Environmental Factors
+Vietnam,VNM,1997,air pollution,68300.23,Environmental Factors
+Vietnam,VNM,1998,air pollution,68045.92,Environmental Factors
+Vietnam,VNM,1999,air pollution,68050.54,Environmental Factors
+Vietnam,VNM,2000,air pollution,68231.125,Environmental Factors
+Vietnam,VNM,2001,air pollution,69094.1,Environmental Factors
+Vietnam,VNM,2002,air pollution,70062.97,Environmental Factors
+Vietnam,VNM,2003,air pollution,71344.38,Environmental Factors
+Vietnam,VNM,2004,air pollution,72580.46,Environmental Factors
+Vietnam,VNM,2005,air pollution,73597.164,Environmental Factors
+Vietnam,VNM,2006,air pollution,74467.19,Environmental Factors
+Vietnam,VNM,2007,air pollution,75756.8,Environmental Factors
+Vietnam,VNM,2008,air pollution,76821.516,Environmental Factors
+Vietnam,VNM,2009,air pollution,77538.22,Environmental Factors
+Vietnam,VNM,2010,air pollution,77630.984,Environmental Factors
+Vietnam,VNM,2011,air pollution,77528.54,Environmental Factors
+Vietnam,VNM,2012,air pollution,76793.15,Environmental Factors
+Vietnam,VNM,2013,air pollution,75714.484,Environmental Factors
+Vietnam,VNM,2014,air pollution,74501.97,Environmental Factors
+Vietnam,VNM,2015,air pollution,73330.09,Environmental Factors
+Vietnam,VNM,2016,air pollution,72409.29,Environmental Factors
+Vietnam,VNM,2017,air pollution,71712.02,Environmental Factors
+Vietnam,VNM,2018,air pollution,71626.29,Environmental Factors
+Vietnam,VNM,2019,air pollution,71701.02,Environmental Factors
+Vietnam,VNM,1990,high body-mass index,6323.474,Diet-related Factors
+Vietnam,VNM,1991,high body-mass index,6440.151,Diet-related Factors
+Vietnam,VNM,1992,high body-mass index,6586.907,Diet-related Factors
+Vietnam,VNM,1993,high body-mass index,6763.364,Diet-related Factors
+Vietnam,VNM,1994,high body-mass index,6967.026,Diet-related Factors
+Vietnam,VNM,1995,high body-mass index,7184.828,Diet-related Factors
+Vietnam,VNM,1996,high body-mass index,7450.6333,Diet-related Factors
+Vietnam,VNM,1997,high body-mass index,7770.122,Diet-related Factors
+Vietnam,VNM,1998,high body-mass index,8143.4014,Diet-related Factors
+Vietnam,VNM,1999,high body-mass index,8584.632,Diet-related Factors
+Vietnam,VNM,2000,high body-mass index,9067.743,Diet-related Factors
+Vietnam,VNM,2001,high body-mass index,9776.727,Diet-related Factors
+Vietnam,VNM,2002,high body-mass index,10624.211,Diet-related Factors
+Vietnam,VNM,2003,high body-mass index,11617.571,Diet-related Factors
+Vietnam,VNM,2004,high body-mass index,12734.97,Diet-related Factors
+Vietnam,VNM,2005,high body-mass index,13920.109,Diet-related Factors
+Vietnam,VNM,2006,high body-mass index,15256.012,Diet-related Factors
+Vietnam,VNM,2007,high body-mass index,16900.021,Diet-related Factors
+Vietnam,VNM,2008,high body-mass index,18670.791,Diet-related Factors
+Vietnam,VNM,2009,high body-mass index,20489.852,Diet-related Factors
+Vietnam,VNM,2010,high body-mass index,22137.207,Diet-related Factors
+Vietnam,VNM,2011,high body-mass index,23837.895,Diet-related Factors
+Vietnam,VNM,2012,high body-mass index,25574.02,Diet-related Factors
+Vietnam,VNM,2013,high body-mass index,27376.43,Diet-related Factors
+Vietnam,VNM,2014,high body-mass index,29216.617,Diet-related Factors
+Vietnam,VNM,2015,high body-mass index,30894.875,Diet-related Factors
+Vietnam,VNM,2016,high body-mass index,32642.207,Diet-related Factors
+Vietnam,VNM,2017,high body-mass index,34349.96,Diet-related Factors
+Vietnam,VNM,2018,high body-mass index,36157.305,Diet-related Factors
+Vietnam,VNM,2019,high body-mass index,37980.53,Diet-related Factors
+Vietnam,VNM,1990,unsafe sanitation,5071.8857,Environmental Factors
+Vietnam,VNM,1991,unsafe sanitation,4815.8643,Environmental Factors
+Vietnam,VNM,1992,unsafe sanitation,4608.0503,Environmental Factors
+Vietnam,VNM,1993,unsafe sanitation,4260.993,Environmental Factors
+Vietnam,VNM,1994,unsafe sanitation,3975.7573,Environmental Factors
+Vietnam,VNM,1995,unsafe sanitation,3663.6318,Environmental Factors
+Vietnam,VNM,1996,unsafe sanitation,3329.05,Environmental Factors
+Vietnam,VNM,1997,unsafe sanitation,3059.4255,Environmental Factors
+Vietnam,VNM,1998,unsafe sanitation,2834.565,Environmental Factors
+Vietnam,VNM,1999,unsafe sanitation,2600.2764,Environmental Factors
+Vietnam,VNM,2000,unsafe sanitation,2377.4502,Environmental Factors
+Vietnam,VNM,2001,unsafe sanitation,2155.1924,Environmental Factors
+Vietnam,VNM,2002,unsafe sanitation,1961.4454,Environmental Factors
+Vietnam,VNM,2003,unsafe sanitation,1828.2123,Environmental Factors
+Vietnam,VNM,2004,unsafe sanitation,1705.0848,Environmental Factors
+Vietnam,VNM,2005,unsafe sanitation,1572.9312,Environmental Factors
+Vietnam,VNM,2006,unsafe sanitation,1458.8488,Environmental Factors
+Vietnam,VNM,2007,unsafe sanitation,1341.6622,Environmental Factors
+Vietnam,VNM,2008,unsafe sanitation,1226.5059,Environmental Factors
+Vietnam,VNM,2009,unsafe sanitation,1127.681,Environmental Factors
+Vietnam,VNM,2010,unsafe sanitation,1035.649,Environmental Factors
+Vietnam,VNM,2011,unsafe sanitation,953.5117,Environmental Factors
+Vietnam,VNM,2012,unsafe sanitation,877.5952,Environmental Factors
+Vietnam,VNM,2013,unsafe sanitation,810.9601,Environmental Factors
+Vietnam,VNM,2014,unsafe sanitation,769.9958,Environmental Factors
+Vietnam,VNM,2015,unsafe sanitation,731.7215,Environmental Factors
+Vietnam,VNM,2016,unsafe sanitation,698.8005,Environmental Factors
+Vietnam,VNM,2017,unsafe sanitation,673.9704,Environmental Factors
+Vietnam,VNM,2018,unsafe sanitation,636.45996,Environmental Factors
+Vietnam,VNM,2019,unsafe sanitation,604.9323,Environmental Factors
+Vietnam,VNM,1990,drug use,2602.991,Substance Use
+Vietnam,VNM,1991,drug use,2735.2805,Substance Use
+Vietnam,VNM,1992,drug use,2887.9229,Substance Use
+Vietnam,VNM,1993,drug use,3067.994,Substance Use
+Vietnam,VNM,1994,drug use,3263.5708,Substance Use
+Vietnam,VNM,1995,drug use,3473.21,Substance Use
+Vietnam,VNM,1996,drug use,3700.6875,Substance Use
+Vietnam,VNM,1997,drug use,3948.7695,Substance Use
+Vietnam,VNM,1998,drug use,4232.383,Substance Use
+Vietnam,VNM,1999,drug use,4541.27,Substance Use
+Vietnam,VNM,2000,drug use,4864.9756,Substance Use
+Vietnam,VNM,2001,drug use,5231.883,Substance Use
+Vietnam,VNM,2002,drug use,5628.191,Substance Use
+Vietnam,VNM,2003,drug use,6058.398,Substance Use
+Vietnam,VNM,2004,drug use,6491.6807,Substance Use
+Vietnam,VNM,2005,drug use,6910.1646,Substance Use
+Vietnam,VNM,2006,drug use,7192.4497,Substance Use
+Vietnam,VNM,2007,drug use,7337.279,Substance Use
+Vietnam,VNM,2008,drug use,7289.5903,Substance Use
+Vietnam,VNM,2009,drug use,7083.9053,Substance Use
+Vietnam,VNM,2010,drug use,7330.1924,Substance Use
+Vietnam,VNM,2011,drug use,7990.92,Substance Use
+Vietnam,VNM,2012,drug use,8366.775,Substance Use
+Vietnam,VNM,2013,drug use,8628.654,Substance Use
+Vietnam,VNM,2014,drug use,8869.787,Substance Use
+Vietnam,VNM,2015,drug use,9107.397,Substance Use
+Vietnam,VNM,2016,drug use,9176.683,Substance Use
+Vietnam,VNM,2017,drug use,9208.474,Substance Use
+Vietnam,VNM,2018,drug use,9322.808,Substance Use
+Vietnam,VNM,2019,drug use,9605.107,Substance Use
+Vietnam,VNM,1990,low bone mineral density,3612.8564,Health Conditions and Deficiencies
+Vietnam,VNM,1991,low bone mineral density,3643.8865,Health Conditions and Deficiencies
+Vietnam,VNM,1992,low bone mineral density,3649.574,Health Conditions and Deficiencies
+Vietnam,VNM,1993,low bone mineral density,3668.8647,Health Conditions and Deficiencies
+Vietnam,VNM,1994,low bone mineral density,3690.2742,Health Conditions and Deficiencies
+Vietnam,VNM,1995,low bone mineral density,3734.3745,Health Conditions and Deficiencies
+Vietnam,VNM,1996,low bone mineral density,3783.0645,Health Conditions and Deficiencies
+Vietnam,VNM,1997,low bone mineral density,3846.0972,Health Conditions and Deficiencies
+Vietnam,VNM,1998,low bone mineral density,3907.1692,Health Conditions and Deficiencies
+Vietnam,VNM,1999,low bone mineral density,3981.0544,Health Conditions and Deficiencies
+Vietnam,VNM,2000,low bone mineral density,4071.327,Health Conditions and Deficiencies
+Vietnam,VNM,2001,low bone mineral density,4200.193,Health Conditions and Deficiencies
+Vietnam,VNM,2002,low bone mineral density,4364.5083,Health Conditions and Deficiencies
+Vietnam,VNM,2003,low bone mineral density,4578.7583,Health Conditions and Deficiencies
+Vietnam,VNM,2004,low bone mineral density,4807.7847,Health Conditions and Deficiencies
+Vietnam,VNM,2005,low bone mineral density,5048.9976,Health Conditions and Deficiencies
+Vietnam,VNM,2006,low bone mineral density,5269.195,Health Conditions and Deficiencies
+Vietnam,VNM,2007,low bone mineral density,5607.826,Health Conditions and Deficiencies
+Vietnam,VNM,2008,low bone mineral density,6008.3574,Health Conditions and Deficiencies
+Vietnam,VNM,2009,low bone mineral density,6232.7554,Health Conditions and Deficiencies
+Vietnam,VNM,2010,low bone mineral density,6469.1567,Health Conditions and Deficiencies
+Vietnam,VNM,2011,low bone mineral density,6718.8843,Health Conditions and Deficiencies
+Vietnam,VNM,2012,low bone mineral density,6963.9067,Health Conditions and Deficiencies
+Vietnam,VNM,2013,low bone mineral density,7102.06,Health Conditions and Deficiencies
+Vietnam,VNM,2014,low bone mineral density,7340.646,Health Conditions and Deficiencies
+Vietnam,VNM,2015,low bone mineral density,7556.2764,Health Conditions and Deficiencies
+Vietnam,VNM,2016,low bone mineral density,7775.3804,Health Conditions and Deficiencies
+Vietnam,VNM,2017,low bone mineral density,7988.6733,Health Conditions and Deficiencies
+Vietnam,VNM,2018,low bone mineral density,8196.931,Health Conditions and Deficiencies
+Vietnam,VNM,2019,low bone mineral density,8389.809,Health Conditions and Deficiencies
+Vietnam,VNM,1990,vitamin a deficiency,787.7337,Health Conditions and Deficiencies
+Vietnam,VNM,1991,vitamin a deficiency,688.6827,Health Conditions and Deficiencies
+Vietnam,VNM,1992,vitamin a deficiency,600.1225,Health Conditions and Deficiencies
+Vietnam,VNM,1993,vitamin a deficiency,515.5206,Health Conditions and Deficiencies
+Vietnam,VNM,1994,vitamin a deficiency,448.8967,Health Conditions and Deficiencies
+Vietnam,VNM,1995,vitamin a deficiency,393.24933,Health Conditions and Deficiencies
+Vietnam,VNM,1996,vitamin a deficiency,353.5932,Health Conditions and Deficiencies
+Vietnam,VNM,1997,vitamin a deficiency,317.58047,Health Conditions and Deficiencies
+Vietnam,VNM,1998,vitamin a deficiency,288.39377,Health Conditions and Deficiencies
+Vietnam,VNM,1999,vitamin a deficiency,273.84705,Health Conditions and Deficiencies
+Vietnam,VNM,2000,vitamin a deficiency,258.83347,Health Conditions and Deficiencies
+Vietnam,VNM,2001,vitamin a deficiency,245.9027,Health Conditions and Deficiencies
+Vietnam,VNM,2002,vitamin a deficiency,230.37488,Health Conditions and Deficiencies
+Vietnam,VNM,2003,vitamin a deficiency,168.84077,Health Conditions and Deficiencies
+Vietnam,VNM,2004,vitamin a deficiency,101.57229,Health Conditions and Deficiencies
+Vietnam,VNM,2005,vitamin a deficiency,87.5657,Health Conditions and Deficiencies
+Vietnam,VNM,2006,vitamin a deficiency,80.8696,Health Conditions and Deficiencies
+Vietnam,VNM,2007,vitamin a deficiency,87.16733,Health Conditions and Deficiencies
+Vietnam,VNM,2008,vitamin a deficiency,81.73579,Health Conditions and Deficiencies
+Vietnam,VNM,2009,vitamin a deficiency,72.2538,Health Conditions and Deficiencies
+Vietnam,VNM,2010,vitamin a deficiency,45.12978,Health Conditions and Deficiencies
+Vietnam,VNM,2011,vitamin a deficiency,29.462614,Health Conditions and Deficiencies
+Vietnam,VNM,2012,vitamin a deficiency,20.62102,Health Conditions and Deficiencies
+Vietnam,VNM,2013,vitamin a deficiency,23.020695,Health Conditions and Deficiencies
+Vietnam,VNM,2014,vitamin a deficiency,24.352577,Health Conditions and Deficiencies
+Vietnam,VNM,2015,vitamin a deficiency,7.456528,Health Conditions and Deficiencies
+Vietnam,VNM,2016,vitamin a deficiency,6.2556653,Health Conditions and Deficiencies
+Vietnam,VNM,2017,vitamin a deficiency,5.4469533,Health Conditions and Deficiencies
+Vietnam,VNM,2018,vitamin a deficiency,5.752712,Health Conditions and Deficiencies
+Vietnam,VNM,2019,vitamin a deficiency,6.680296,Health Conditions and Deficiencies
+Vietnam,VNM,1990,child stunting,5085.5127,Health Conditions and Deficiencies
+Vietnam,VNM,1991,child stunting,4722.4917,Health Conditions and Deficiencies
+Vietnam,VNM,1992,child stunting,4351.7607,Health Conditions and Deficiencies
+Vietnam,VNM,1993,child stunting,3963.3967,Health Conditions and Deficiencies
+Vietnam,VNM,1994,child stunting,3614.0522,Health Conditions and Deficiencies
+Vietnam,VNM,1995,child stunting,3282.602,Health Conditions and Deficiencies
+Vietnam,VNM,1996,child stunting,2970.303,Health Conditions and Deficiencies
+Vietnam,VNM,1997,child stunting,2692.8237,Health Conditions and Deficiencies
+Vietnam,VNM,1998,child stunting,2442.04,Health Conditions and Deficiencies
+Vietnam,VNM,1999,child stunting,2227.4163,Health Conditions and Deficiencies
+Vietnam,VNM,2000,child stunting,2042.659,Health Conditions and Deficiencies
+Vietnam,VNM,2001,child stunting,1889.4824,Health Conditions and Deficiencies
+Vietnam,VNM,2002,child stunting,1744.0239,Health Conditions and Deficiencies
+Vietnam,VNM,2003,child stunting,1457.1252,Health Conditions and Deficiencies
+Vietnam,VNM,2004,child stunting,1192.5074,Health Conditions and Deficiencies
+Vietnam,VNM,2005,child stunting,1088.7765,Health Conditions and Deficiencies
+Vietnam,VNM,2006,child stunting,1009.66046,Health Conditions and Deficiencies
+Vietnam,VNM,2007,child stunting,970.08026,Health Conditions and Deficiencies
+Vietnam,VNM,2008,child stunting,904.9965,Health Conditions and Deficiencies
+Vietnam,VNM,2009,child stunting,826.3452,Health Conditions and Deficiencies
+Vietnam,VNM,2010,child stunting,705.97675,Health Conditions and Deficiencies
+Vietnam,VNM,2011,child stunting,608.9543,Health Conditions and Deficiencies
+Vietnam,VNM,2012,child stunting,532.11804,Health Conditions and Deficiencies
+Vietnam,VNM,2013,child stunting,495.17493,Health Conditions and Deficiencies
+Vietnam,VNM,2014,child stunting,452.6506,Health Conditions and Deficiencies
+Vietnam,VNM,2015,child stunting,362.10898,Health Conditions and Deficiencies
+Vietnam,VNM,2016,child stunting,322.58466,Health Conditions and Deficiencies
+Vietnam,VNM,2017,child stunting,288.91003,Health Conditions and Deficiencies
+Vietnam,VNM,2018,child stunting,261.40872,Health Conditions and Deficiencies
+Vietnam,VNM,2019,child stunting,238.60045,Health Conditions and Deficiencies
+Vietnam,VNM,1990,non-exclusive breastfeeding,2818.0513,Behavioral and Lifestyle Factors
+Vietnam,VNM,1991,non-exclusive breastfeeding,2621.9036,Behavioral and Lifestyle Factors
+Vietnam,VNM,1992,non-exclusive breastfeeding,2435.5105,Behavioral and Lifestyle Factors
+Vietnam,VNM,1993,non-exclusive breastfeeding,2202.091,Behavioral and Lifestyle Factors
+Vietnam,VNM,1994,non-exclusive breastfeeding,1988.515,Behavioral and Lifestyle Factors
+Vietnam,VNM,1995,non-exclusive breastfeeding,1774.4563,Behavioral and Lifestyle Factors
+Vietnam,VNM,1996,non-exclusive breastfeeding,1557.0745,Behavioral and Lifestyle Factors
+Vietnam,VNM,1997,non-exclusive breastfeeding,1376.2216,Behavioral and Lifestyle Factors
+Vietnam,VNM,1998,non-exclusive breastfeeding,1228.1918,Behavioral and Lifestyle Factors
+Vietnam,VNM,1999,non-exclusive breastfeeding,1098.671,Behavioral and Lifestyle Factors
+Vietnam,VNM,2000,non-exclusive breastfeeding,1001.13654,Behavioral and Lifestyle Factors
+Vietnam,VNM,2001,non-exclusive breastfeeding,923.76276,Behavioral and Lifestyle Factors
+Vietnam,VNM,2002,non-exclusive breastfeeding,864.83325,Behavioral and Lifestyle Factors
+Vietnam,VNM,2003,non-exclusive breastfeeding,843.93054,Behavioral and Lifestyle Factors
+Vietnam,VNM,2004,non-exclusive breastfeeding,821.6914,Behavioral and Lifestyle Factors
+Vietnam,VNM,2005,non-exclusive breastfeeding,782.7507,Behavioral and Lifestyle Factors
+Vietnam,VNM,2006,non-exclusive breastfeeding,737.7884,Behavioral and Lifestyle Factors
+Vietnam,VNM,2007,non-exclusive breastfeeding,690.86676,Behavioral and Lifestyle Factors
+Vietnam,VNM,2008,non-exclusive breastfeeding,650.481,Behavioral and Lifestyle Factors
+Vietnam,VNM,2009,non-exclusive breastfeeding,609.23944,Behavioral and Lifestyle Factors
+Vietnam,VNM,2010,non-exclusive breastfeeding,572.83435,Behavioral and Lifestyle Factors
+Vietnam,VNM,2011,non-exclusive breastfeeding,525.89087,Behavioral and Lifestyle Factors
+Vietnam,VNM,2012,non-exclusive breastfeeding,480.7965,Behavioral and Lifestyle Factors
+Vietnam,VNM,2013,non-exclusive breastfeeding,439.34427,Behavioral and Lifestyle Factors
+Vietnam,VNM,2014,non-exclusive breastfeeding,396.129,Behavioral and Lifestyle Factors
+Vietnam,VNM,2015,non-exclusive breastfeeding,365.2923,Behavioral and Lifestyle Factors
+Vietnam,VNM,2016,non-exclusive breastfeeding,332.04993,Behavioral and Lifestyle Factors
+Vietnam,VNM,2017,non-exclusive breastfeeding,301.32193,Behavioral and Lifestyle Factors
+Vietnam,VNM,2018,non-exclusive breastfeeding,272.43945,Behavioral and Lifestyle Factors
+Vietnam,VNM,2019,non-exclusive breastfeeding,246.17717,Behavioral and Lifestyle Factors
+Vietnam,VNM,1990,iron deficiency,156.59135,Health Conditions and Deficiencies
+Vietnam,VNM,1991,iron deficiency,143.70174,Health Conditions and Deficiencies
+Vietnam,VNM,1992,iron deficiency,131.1286,Health Conditions and Deficiencies
+Vietnam,VNM,1993,iron deficiency,119.382195,Health Conditions and Deficiencies
+Vietnam,VNM,1994,iron deficiency,108.66886,Health Conditions and Deficiencies
+Vietnam,VNM,1995,iron deficiency,99.162704,Health Conditions and Deficiencies
+Vietnam,VNM,1996,iron deficiency,89.628746,Health Conditions and Deficiencies
+Vietnam,VNM,1997,iron deficiency,80.745804,Health Conditions and Deficiencies
+Vietnam,VNM,1998,iron deficiency,73.25315,Health Conditions and Deficiencies
+Vietnam,VNM,1999,iron deficiency,67.24853,Health Conditions and Deficiencies
+Vietnam,VNM,2000,iron deficiency,61.68133,Health Conditions and Deficiencies
+Vietnam,VNM,2001,iron deficiency,59.271038,Health Conditions and Deficiencies
+Vietnam,VNM,2002,iron deficiency,57.325172,Health Conditions and Deficiencies
+Vietnam,VNM,2003,iron deficiency,55.844654,Health Conditions and Deficiencies
+Vietnam,VNM,2004,iron deficiency,54.692745,Health Conditions and Deficiencies
+Vietnam,VNM,2005,iron deficiency,53.25832,Health Conditions and Deficiencies
+Vietnam,VNM,2006,iron deficiency,51.47428,Health Conditions and Deficiencies
+Vietnam,VNM,2007,iron deficiency,50.301395,Health Conditions and Deficiencies
+Vietnam,VNM,2008,iron deficiency,49.37622,Health Conditions and Deficiencies
+Vietnam,VNM,2009,iron deficiency,48.53549,Health Conditions and Deficiencies
+Vietnam,VNM,2010,iron deficiency,46.849445,Health Conditions and Deficiencies
+Vietnam,VNM,2011,iron deficiency,44.72102,Health Conditions and Deficiencies
+Vietnam,VNM,2012,iron deficiency,42.73676,Health Conditions and Deficiencies
+Vietnam,VNM,2013,iron deficiency,41.049942,Health Conditions and Deficiencies
+Vietnam,VNM,2014,iron deficiency,39.419395,Health Conditions and Deficiencies
+Vietnam,VNM,2015,iron deficiency,37.260128,Health Conditions and Deficiencies
+Vietnam,VNM,2016,iron deficiency,35.080387,Health Conditions and Deficiencies
+Vietnam,VNM,2017,iron deficiency,32.89374,Health Conditions and Deficiencies
+Vietnam,VNM,2018,iron deficiency,31.091532,Health Conditions and Deficiencies
+Vietnam,VNM,2019,iron deficiency,29.637976,Health Conditions and Deficiencies
+Vietnam,VNM,1990,ambient particulate matter pollution,9929.8545,Environmental Factors
+Vietnam,VNM,1991,ambient particulate matter pollution,10312.1455,Environmental Factors
+Vietnam,VNM,1992,ambient particulate matter pollution,10719.95,Environmental Factors
+Vietnam,VNM,1993,ambient particulate matter pollution,11168.492,Environmental Factors
+Vietnam,VNM,1994,ambient particulate matter pollution,11662.872,Environmental Factors
+Vietnam,VNM,1995,ambient particulate matter pollution,12209.637,Environmental Factors
+Vietnam,VNM,1996,ambient particulate matter pollution,12833.206,Environmental Factors
+Vietnam,VNM,1997,ambient particulate matter pollution,13555.147,Environmental Factors
+Vietnam,VNM,1998,ambient particulate matter pollution,14371.472,Environmental Factors
+Vietnam,VNM,1999,ambient particulate matter pollution,15302.209,Environmental Factors
+Vietnam,VNM,2000,ambient particulate matter pollution,16342.214,Environmental Factors
+Vietnam,VNM,2001,ambient particulate matter pollution,17626.64,Environmental Factors
+Vietnam,VNM,2002,ambient particulate matter pollution,19059.707,Environmental Factors
+Vietnam,VNM,2003,ambient particulate matter pollution,20655.662,Environmental Factors
+Vietnam,VNM,2004,ambient particulate matter pollution,22359.762,Environmental Factors
+Vietnam,VNM,2005,ambient particulate matter pollution,24053.197,Environmental Factors
+Vietnam,VNM,2006,ambient particulate matter pollution,25910.521,Environmental Factors
+Vietnam,VNM,2007,ambient particulate matter pollution,28127.074,Environmental Factors
+Vietnam,VNM,2008,ambient particulate matter pollution,30300.592,Environmental Factors
+Vietnam,VNM,2009,ambient particulate matter pollution,32150.264,Environmental Factors
+Vietnam,VNM,2010,ambient particulate matter pollution,33199.82,Environmental Factors
+Vietnam,VNM,2011,ambient particulate matter pollution,33774.105,Environmental Factors
+Vietnam,VNM,2012,ambient particulate matter pollution,34034.824,Environmental Factors
+Vietnam,VNM,2013,ambient particulate matter pollution,34190.203,Environmental Factors
+Vietnam,VNM,2014,ambient particulate matter pollution,34266.96,Environmental Factors
+Vietnam,VNM,2015,ambient particulate matter pollution,34337.785,Environmental Factors
+Vietnam,VNM,2016,ambient particulate matter pollution,34578.043,Environmental Factors
+Vietnam,VNM,2017,ambient particulate matter pollution,35018.695,Environmental Factors
+Vietnam,VNM,2018,ambient particulate matter pollution,35997.844,Environmental Factors
+Vietnam,VNM,2019,ambient particulate matter pollution,37456.71,Environmental Factors
+Vietnam,VNM,1990,low physical activity,2134.5337,Behavioral and Lifestyle Factors
+Vietnam,VNM,1991,low physical activity,2165.537,Behavioral and Lifestyle Factors
+Vietnam,VNM,1992,low physical activity,2204.1912,Behavioral and Lifestyle Factors
+Vietnam,VNM,1993,low physical activity,2254.8562,Behavioral and Lifestyle Factors
+Vietnam,VNM,1994,low physical activity,2313.0596,Behavioral and Lifestyle Factors
+Vietnam,VNM,1995,low physical activity,2377.4133,Behavioral and Lifestyle Factors
+Vietnam,VNM,1996,low physical activity,2442.627,Behavioral and Lifestyle Factors
+Vietnam,VNM,1997,low physical activity,2511.333,Behavioral and Lifestyle Factors
+Vietnam,VNM,1998,low physical activity,2587.442,Behavioral and Lifestyle Factors
+Vietnam,VNM,1999,low physical activity,2674.3113,Behavioral and Lifestyle Factors
+Vietnam,VNM,2000,low physical activity,2768.5903,Behavioral and Lifestyle Factors
+Vietnam,VNM,2001,low physical activity,2870.062,Behavioral and Lifestyle Factors
+Vietnam,VNM,2002,low physical activity,2985.533,Behavioral and Lifestyle Factors
+Vietnam,VNM,2003,low physical activity,3116.9675,Behavioral and Lifestyle Factors
+Vietnam,VNM,2004,low physical activity,3258.8408,Behavioral and Lifestyle Factors
+Vietnam,VNM,2005,low physical activity,3404.481,Behavioral and Lifestyle Factors
+Vietnam,VNM,2006,low physical activity,3548.7866,Behavioral and Lifestyle Factors
+Vietnam,VNM,2007,low physical activity,3709.7354,Behavioral and Lifestyle Factors
+Vietnam,VNM,2008,low physical activity,3876.2761,Behavioral and Lifestyle Factors
+Vietnam,VNM,2009,low physical activity,4047.0479,Behavioral and Lifestyle Factors
+Vietnam,VNM,2010,low physical activity,4198.152,Behavioral and Lifestyle Factors
+Vietnam,VNM,2011,low physical activity,4355.52,Behavioral and Lifestyle Factors
+Vietnam,VNM,2012,low physical activity,4516.94,Behavioral and Lifestyle Factors
+Vietnam,VNM,2013,low physical activity,4687.4624,Behavioral and Lifestyle Factors
+Vietnam,VNM,2014,low physical activity,4866.009,Behavioral and Lifestyle Factors
+Vietnam,VNM,2015,low physical activity,5020.014,Behavioral and Lifestyle Factors
+Vietnam,VNM,2016,low physical activity,5141.013,Behavioral and Lifestyle Factors
+Vietnam,VNM,2017,low physical activity,5279.725,Behavioral and Lifestyle Factors
+Vietnam,VNM,2018,low physical activity,5418.0923,Behavioral and Lifestyle Factors
+Vietnam,VNM,2019,low physical activity,5556.346,Behavioral and Lifestyle Factors
+Vietnam,VNM,1990,no access to handwashing facility,4367.578,Environmental Factors
+Vietnam,VNM,1991,no access to handwashing facility,4209.616,Environmental Factors
+Vietnam,VNM,1992,no access to handwashing facility,4054.9062,Environmental Factors
+Vietnam,VNM,1993,no access to handwashing facility,3846.0,Environmental Factors
+Vietnam,VNM,1994,no access to handwashing facility,3642.729,Environmental Factors
+Vietnam,VNM,1995,no access to handwashing facility,3437.641,Environmental Factors
+Vietnam,VNM,1996,no access to handwashing facility,3245.8486,Environmental Factors
+Vietnam,VNM,1997,no access to handwashing facility,3087.577,Environmental Factors
+Vietnam,VNM,1998,no access to handwashing facility,2952.412,Environmental Factors
+Vietnam,VNM,1999,no access to handwashing facility,2832.0999,Environmental Factors
+Vietnam,VNM,2000,no access to handwashing facility,2734.6455,Environmental Factors
+Vietnam,VNM,2001,no access to handwashing facility,2664.7183,Environmental Factors
+Vietnam,VNM,2002,no access to handwashing facility,2611.6223,Environmental Factors
+Vietnam,VNM,2003,no access to handwashing facility,2606.9312,Environmental Factors
+Vietnam,VNM,2004,no access to handwashing facility,2609.3215,Environmental Factors
+Vietnam,VNM,2005,no access to handwashing facility,2586.4983,Environmental Factors
+Vietnam,VNM,2006,no access to handwashing facility,2559.1882,Environmental Factors
+Vietnam,VNM,2007,no access to handwashing facility,2526.4292,Environmental Factors
+Vietnam,VNM,2008,no access to handwashing facility,2490.5002,Environmental Factors
+Vietnam,VNM,2009,no access to handwashing facility,2456.0269,Environmental Factors
+Vietnam,VNM,2010,no access to handwashing facility,2417.502,Environmental Factors
+Vietnam,VNM,2011,no access to handwashing facility,2426.642,Environmental Factors
+Vietnam,VNM,2012,no access to handwashing facility,2430.991,Environmental Factors
+Vietnam,VNM,2013,no access to handwashing facility,2452.0615,Environmental Factors
+Vietnam,VNM,2014,no access to handwashing facility,2364.4382,Environmental Factors
+Vietnam,VNM,2015,no access to handwashing facility,2301.1926,Environmental Factors
+Vietnam,VNM,2016,no access to handwashing facility,2237.925,Environmental Factors
+Vietnam,VNM,2017,no access to handwashing facility,2180.8638,Environmental Factors
+Vietnam,VNM,2018,no access to handwashing facility,2114.443,Environmental Factors
+Vietnam,VNM,2019,no access to handwashing facility,2053.345,Environmental Factors
+Vietnam,VNM,1990,high ldl cholesterol,18979.068,Health Conditions and Deficiencies
+Vietnam,VNM,1991,high ldl cholesterol,19214.055,Health Conditions and Deficiencies
+Vietnam,VNM,1992,high ldl cholesterol,19441.383,Health Conditions and Deficiencies
+Vietnam,VNM,1993,high ldl cholesterol,19694.77,Health Conditions and Deficiencies
+Vietnam,VNM,1994,high ldl cholesterol,19973.035,Health Conditions and Deficiencies
+Vietnam,VNM,1995,high ldl cholesterol,20279.357,Health Conditions and Deficiencies
+Vietnam,VNM,1996,high ldl cholesterol,20623.16,Health Conditions and Deficiencies
+Vietnam,VNM,1997,high ldl cholesterol,20992.59,Health Conditions and Deficiencies
+Vietnam,VNM,1998,high ldl cholesterol,21405.328,Health Conditions and Deficiencies
+Vietnam,VNM,1999,high ldl cholesterol,21930.174,Health Conditions and Deficiencies
+Vietnam,VNM,2000,high ldl cholesterol,22327.281,Health Conditions and Deficiencies
+Vietnam,VNM,2001,high ldl cholesterol,22909.855,Health Conditions and Deficiencies
+Vietnam,VNM,2002,high ldl cholesterol,23554.334,Health Conditions and Deficiencies
+Vietnam,VNM,2003,high ldl cholesterol,24279.623,Health Conditions and Deficiencies
+Vietnam,VNM,2004,high ldl cholesterol,25102.312,Health Conditions and Deficiencies
+Vietnam,VNM,2005,high ldl cholesterol,25916.266,Health Conditions and Deficiencies
+Vietnam,VNM,2006,high ldl cholesterol,26769.58,Health Conditions and Deficiencies
+Vietnam,VNM,2007,high ldl cholesterol,27795.77,Health Conditions and Deficiencies
+Vietnam,VNM,2008,high ldl cholesterol,28884.68,Health Conditions and Deficiencies
+Vietnam,VNM,2009,high ldl cholesterol,30049.344,Health Conditions and Deficiencies
+Vietnam,VNM,2010,high ldl cholesterol,31011.451,Health Conditions and Deficiencies
+Vietnam,VNM,2011,high ldl cholesterol,32119.031,Health Conditions and Deficiencies
+Vietnam,VNM,2012,high ldl cholesterol,33195.06,Health Conditions and Deficiencies
+Vietnam,VNM,2013,high ldl cholesterol,34342.62,Health Conditions and Deficiencies
+Vietnam,VNM,2014,high ldl cholesterol,35407.535,Health Conditions and Deficiencies
+Vietnam,VNM,2015,high ldl cholesterol,36386.758,Health Conditions and Deficiencies
+Vietnam,VNM,2016,high ldl cholesterol,37360.242,Health Conditions and Deficiencies
+Vietnam,VNM,2017,high ldl cholesterol,38445.18,Health Conditions and Deficiencies
+Vietnam,VNM,2018,high ldl cholesterol,39555.652,Health Conditions and Deficiencies
+Vietnam,VNM,2019,high ldl cholesterol,40602.906,Health Conditions and Deficiencies

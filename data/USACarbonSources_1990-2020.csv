@@ -1,0 +1,342 @@
+Entity,Code,Year,variable,value
+United States,USA,1990,agriculture,356320000.0
+United States,USA,1991,agriculture,357429980.0
+United States,USA,1992,agriculture,364950000.0
+United States,USA,1993,agriculture,366090000.0
+United States,USA,1994,agriculture,376020000.0
+United States,USA,1995,agriculture,374320000.0
+United States,USA,1996,agriculture,378860000.0
+United States,USA,1997,agriculture,377520000.0
+United States,USA,1998,agriculture,375820000.0
+United States,USA,1999,agriculture,373260000.0
+United States,USA,2000,agriculture,367580000.0
+United States,USA,2001,agriculture,365560000.0
+United States,USA,2002,agriculture,364980000.0
+United States,USA,2003,agriculture,371580000.0
+United States,USA,2004,agriculture,370050000.0
+United States,USA,2005,agriculture,369670000.0
+United States,USA,2006,agriculture,376120000.0
+United States,USA,2007,agriculture,376380000.0
+United States,USA,2008,agriculture,371900000.0
+United States,USA,2009,agriculture,373120000.0
+United States,USA,2010,agriculture,375540000.0
+United States,USA,2011,agriculture,374640000.0
+United States,USA,2012,agriculture,370460000.0
+United States,USA,2013,agriculture,368610000.0
+United States,USA,2014,agriculture,368090000.0
+United States,USA,2015,agriculture,368770000.0
+United States,USA,2016,agriculture,379460000.0
+United States,USA,2017,agriculture,378280000.0
+United States,USA,2018,agriculture,382549980.0
+United States,USA,2019,agriculture,380180000.0
+United States,USA,2020,agriculture,382010020.0
+United States,USA,1990,land use change and forestry,-406800000.0
+United States,USA,1991,land use change and forestry,-406800000.0
+United States,USA,1992,land use change and forestry,-406800000.0
+United States,USA,1993,land use change and forestry,-406940000.0
+United States,USA,1994,land use change and forestry,-407090000.0
+United States,USA,1995,land use change and forestry,-406869980.0
+United States,USA,1996,land use change and forestry,-405709980.0
+United States,USA,1997,land use change and forestry,-407420000.0
+United States,USA,1998,land use change and forestry,-405840000.0
+United States,USA,1999,land use change and forestry,-405290020.0
+United States,USA,2000,land use change and forestry,-405090000.0
+United States,USA,2001,land use change and forestry,-391029980.0
+United States,USA,2002,land use change and forestry,-390080000.0
+United States,USA,2003,land use change and forestry,-390330000.0
+United States,USA,2004,land use change and forestry,-390400000.0
+United States,USA,2005,land use change and forestry,-390730020.0
+United States,USA,2006,land use change and forestry,-390610000.0
+United States,USA,2007,land use change and forestry,-390200000.0
+United States,USA,2008,land use change and forestry,-389750000.0
+United States,USA,2009,land use change and forestry,-390760000.0
+United States,USA,2010,land use change and forestry,-390940000.0
+United States,USA,2011,land use change and forestry,-407570020.0
+United States,USA,2012,land use change and forestry,-407780000.0
+United States,USA,2013,land use change and forestry,-407780000.0
+United States,USA,2014,land use change and forestry,-407790000.0
+United States,USA,2015,land use change and forestry,-406930000.0
+United States,USA,2016,land use change and forestry,-220240000.0
+United States,USA,2017,land use change and forestry,-219050000.0
+United States,USA,2018,land use change and forestry,-219130000.0
+United States,USA,2019,land use change and forestry,-220260000.0
+United States,USA,2020,land use change and forestry,-216050000.0
+United States,USA,1990,waste,199340000.0
+United States,USA,1991,waste,201900000.0
+United States,USA,1992,waste,202080000.0
+United States,USA,1993,waste,200220000.0
+United States,USA,1994,waste,200520000.0
+United States,USA,1995,waste,195750000.0
+United States,USA,1996,waste,192390000.0
+United States,USA,1997,waste,183260000.0
+United States,USA,1998,waste,173820000.0
+United States,USA,1999,waste,167630000.0
+United States,USA,2000,waste,164690000.0
+United States,USA,2001,waste,159810000.0
+United States,USA,2002,waste,157990000.0
+United States,USA,2003,waste,160860000.0
+United States,USA,2004,waste,158530000.0
+United States,USA,2005,waste,156440000.0
+United States,USA,2006,waste,154350000.0
+United States,USA,2007,waste,152340000.0
+United States,USA,2008,waste,150220000.0
+United States,USA,2009,waste,147450000.0
+United States,USA,2010,waste,148270000.0
+United States,USA,2011,waste,139230000.0
+United States,USA,2012,waste,140310000.0
+United States,USA,2013,waste,136430000.0
+United States,USA,2014,waste,136100000.0
+United States,USA,2015,waste,135200000.0
+United States,USA,2016,waste,131030000.0
+United States,USA,2017,waste,132130010.0
+United States,USA,2018,waste,133240010.0
+United States,USA,2019,waste,134350000.0
+United States,USA,2020,waste,135450000.0
+United States,USA,1990,buildings,547890000.0
+United States,USA,1991,buildings,557710000.0
+United States,USA,1992,buildings,567600000.0
+United States,USA,1993,buildings,593340000.0
+United States,USA,1994,buildings,583450000.0
+United States,USA,1995,buildings,588150000.0
+United States,USA,1996,buildings,624580030.0
+United States,USA,1997,buildings,607080000.0
+United States,USA,1998,buildings,555620000.0
+United States,USA,1999,buildings,573860000.0
+United States,USA,2000,buildings,605789950.0
+United States,USA,2001,buildings,587640000.0
+United States,USA,2002,buildings,588010000.0
+United States,USA,2003,buildings,612110000.0
+United States,USA,2004,buildings,596640000.0
+United States,USA,2005,buildings,578880000.0
+United States,USA,2006,buildings,523429980.0
+United States,USA,2007,buildings,555320000.0
+United States,USA,2008,buildings,562810000.0
+United States,USA,2009,buildings,557739970.0
+United States,USA,2010,buildings,552170000.0
+United States,USA,2011,buildings,529050000.0
+United States,USA,2012,buildings,466350000.0
+United States,USA,2013,buildings,535270000.0
+United States,USA,2014,buildings,552640000.0
+United States,USA,2015,buildings,518710000.0
+United States,USA,2016,buildings,501940000.0
+United States,USA,2017,buildings,503029980.0
+United States,USA,2018,buildings,556970000.0
+United States,USA,2019,buildings,557570000.0
+United States,USA,2020,buildings,517210020.0
+United States,USA,1990,industry,164710000.0
+United States,USA,1991,industry,154310000.0
+United States,USA,1992,industry,157310000.0
+United States,USA,1993,industry,160570000.0
+United States,USA,1994,industry,165510000.0
+United States,USA,1995,industry,187540000.0
+United States,USA,1996,industry,197280000.0
+United States,USA,1997,industry,198510000.0
+United States,USA,1998,industry,209710000.0
+United States,USA,1999,industry,206140000.0
+United States,USA,2000,industry,208700000.0
+United States,USA,2001,industry,192090000.0
+United States,USA,2002,industry,202070000.0
+United States,USA,2003,industry,191490000.0
+United States,USA,2004,industry,199030000.0
+United States,USA,2005,industry,204420000.0
+United States,USA,2006,industry,208390000.0
+United States,USA,2007,industry,221720000.0
+United States,USA,2008,industry,208910000.0
+United States,USA,2009,industry,190550000.0
+United States,USA,2010,industry,204590000.0
+United States,USA,2011,industry,217000000.0
+United States,USA,2012,industry,210150000.0
+United States,USA,2013,industry,209350000.0
+United States,USA,2014,industry,219360000.0
+United States,USA,2015,industry,221220000.0
+United States,USA,2016,industry,222020000.0
+United States,USA,2017,industry,227960000.0
+United States,USA,2018,industry,231670000.0
+United States,USA,2019,industry,238670000.0
+United States,USA,2020,industry,243520000.0
+United States,USA,1990,manufacturing and construction,606900030.0
+United States,USA,1991,manufacturing and construction,569290000.0
+United States,USA,1992,manufacturing and construction,520000000.0
+United States,USA,1993,manufacturing and construction,534520030.0
+United States,USA,1994,manufacturing and construction,536950000.0
+United States,USA,1995,manufacturing and construction,488950000.0
+United States,USA,1996,manufacturing and construction,488029980.0
+United States,USA,1997,manufacturing and construction,509029980.0
+United States,USA,1998,manufacturing and construction,515150000.0
+United States,USA,1999,manufacturing and construction,503350000.0
+United States,USA,2000,manufacturing and construction,571300000.0
+United States,USA,2001,manufacturing and construction,543770050.0
+United States,USA,2002,manufacturing and construction,494170020.0
+United States,USA,2003,manufacturing and construction,488960000.0
+United States,USA,2004,manufacturing and construction,515450020.0
+United States,USA,2005,manufacturing and construction,481140000.0
+United States,USA,2006,manufacturing and construction,500010020.0
+United States,USA,2007,manufacturing and construction,489980000.0
+United States,USA,2008,manufacturing and construction,478520000.0
+United States,USA,2009,manufacturing and construction,410850020.0
+United States,USA,2010,manufacturing and construction,469900000.0
+United States,USA,2011,manufacturing and construction,439100000.0
+United States,USA,2012,manufacturing and construction,441920000.0
+United States,USA,2013,manufacturing and construction,438240000.0
+United States,USA,2014,manufacturing and construction,440620000.0
+United States,USA,2015,manufacturing and construction,437190000.0
+United States,USA,2016,manufacturing and construction,442309980.0
+United States,USA,2017,manufacturing and construction,432700000.0
+United States,USA,2018,manufacturing and construction,457690020.0
+United States,USA,2019,manufacturing and construction,442600000.0
+United States,USA,2020,manufacturing and construction,441120000.0
+United States,USA,1990,transport,1468599900.0
+United States,USA,1991,transport,1440670100.0
+United States,USA,1992,transport,1472860000.0
+United States,USA,1993,transport,1497040000.0
+United States,USA,1994,transport,1551220000.0
+United States,USA,1995,transport,1583180000.0
+United States,USA,1996,transport,1623420000.0
+United States,USA,1997,transport,1648880000.0
+United States,USA,1998,transport,1688190000.0
+United States,USA,1999,transport,1735150100.0
+United States,USA,2000,transport,1767780000.0
+United States,USA,2001,transport,1770170000.0
+United States,USA,2002,transport,1792970000.0
+United States,USA,2003,transport,1818939900.0
+United States,USA,2004,transport,1842000000.0
+United States,USA,2005,transport,1861920000.0
+United States,USA,2006,transport,1861329900.0
+United States,USA,2007,transport,1862030100.0
+United States,USA,2008,transport,1761590000.0
+United States,USA,2009,transport,1674020000.0
+United States,USA,2010,transport,1733120000.0
+United States,USA,2011,transport,1686209900.0
+United States,USA,2012,transport,1650090000.0
+United States,USA,2013,transport,1701510000.0
+United States,USA,2014,transport,1694600000.0
+United States,USA,2015,transport,1756630000.0
+United States,USA,2016,transport,1768760000.0
+United States,USA,2017,transport,1781510000.0
+United States,USA,2018,transport,1820880000.0
+United States,USA,2019,transport,1815660000.0
+United States,USA,2020,transport,1558320000.0
+United States,USA,1990,electricity and heat,2171629800.0
+United States,USA,1991,electricity and heat,2191740000.0
+United States,USA,1992,electricity and heat,2289280000.0
+United States,USA,1993,electricity and heat,2348060200.0
+United States,USA,1994,electricity and heat,2373440000.0
+United States,USA,1995,electricity and heat,2436260000.0
+United States,USA,1996,electricity and heat,2517460000.0
+United States,USA,1997,electricity and heat,2756790000.0
+United States,USA,1998,electricity and heat,2814450000.0
+United States,USA,1999,electricity and heat,2782060000.0
+United States,USA,2000,electricity and heat,2814150000.0
+United States,USA,2001,electricity and heat,2825560000.0
+United States,USA,2002,electricity and heat,2692120000.0
+United States,USA,2003,electricity and heat,2720100000.0
+United States,USA,2004,electricity and heat,2754540000.0
+United States,USA,2005,electricity and heat,2803760000.0
+United States,USA,2006,electricity and heat,2734980000.0
+United States,USA,2007,electricity and heat,2801710000.0
+United States,USA,2008,electricity and heat,2731600100.0
+United States,USA,2009,electricity and heat,2499980000.0
+United States,USA,2010,electricity and heat,2620930000.0
+United States,USA,2011,electricity and heat,2499530000.0
+United States,USA,2012,electricity and heat,2370169900.0
+United States,USA,2013,electricity and heat,2388770000.0
+United States,USA,2014,electricity and heat,2386490000.0
+United States,USA,2015,electricity and heat,2243240000.0
+United States,USA,2016,electricity and heat,2154189800.0
+United States,USA,2017,electricity and heat,2072960000.0
+United States,USA,2018,electricity and heat,2105010000.0
+United States,USA,2019,electricity and heat,1965560000.0
+United States,USA,2020,electricity and heat,1771120000.0
+United States,USA,1990,Fugitive emissions from energy production,271090000.0
+United States,USA,1991,Fugitive emissions from energy production,270149980.0
+United States,USA,1992,Fugitive emissions from energy production,270070000.0
+United States,USA,1993,Fugitive emissions from energy production,260910000.0
+United States,USA,1994,Fugitive emissions from energy production,267390020.0
+United States,USA,1995,Fugitive emissions from energy production,268549980.0
+United States,USA,1996,Fugitive emissions from energy production,269740000.0
+United States,USA,1997,Fugitive emissions from energy production,272070000.0
+United States,USA,1998,Fugitive emissions from energy production,270390000.0
+United States,USA,1999,Fugitive emissions from energy production,264680000.0
+United States,USA,2000,Fugitive emissions from energy production,265890020.0
+United States,USA,2001,Fugitive emissions from energy production,266859980.0
+United States,USA,2002,Fugitive emissions from energy production,262700020.0
+United States,USA,2003,Fugitive emissions from energy production,260620000.0
+United States,USA,2004,Fugitive emissions from energy production,260239980.0
+United States,USA,2005,Fugitive emissions from energy production,261190000.0
+United States,USA,2006,Fugitive emissions from energy production,264650000.0
+United States,USA,2007,Fugitive emissions from energy production,272140000.0
+United States,USA,2008,Fugitive emissions from energy production,281510000.0
+United States,USA,2009,Fugitive emissions from energy production,279970020.0
+United States,USA,2010,Fugitive emissions from energy production,297600000.0
+United States,USA,2011,Fugitive emissions from energy production,321500000.0
+United States,USA,2012,Fugitive emissions from energy production,340410020.0
+United States,USA,2013,Fugitive emissions from energy production,348470000.0
+United States,USA,2014,Fugitive emissions from energy production,377580000.0
+United States,USA,2015,Fugitive emissions from energy production,382360000.0
+United States,USA,2016,Fugitive emissions from energy production,356680000.0
+United States,USA,2017,Fugitive emissions from energy production,373240000.0
+United States,USA,2018,Fugitive emissions from energy production,419720000.0
+United States,USA,2019,Fugitive emissions from energy production,465250000.0
+United States,USA,2020,Fugitive emissions from energy production,419500000.0
+United States,USA,1990,other fuel combustion,69050000.0
+United States,USA,1991,other fuel combustion,67180000.0
+United States,USA,1992,other fuel combustion,50520000.0
+United States,USA,1993,other fuel combustion,45250000.0
+United States,USA,1994,other fuel combustion,46020000.0
+United States,USA,1995,other fuel combustion,46060000.0
+United States,USA,1996,other fuel combustion,47200000.0
+United States,USA,1997,other fuel combustion,47670000.0
+United States,USA,1998,other fuel combustion,43800000.0
+United States,USA,1999,other fuel combustion,41670000.0
+United States,USA,2000,other fuel combustion,44780000.0
+United States,USA,2001,other fuel combustion,47940000.0
+United States,USA,2002,other fuel combustion,50750000.0
+United States,USA,2003,other fuel combustion,45490000.0
+United States,USA,2004,other fuel combustion,56520000.0
+United States,USA,2005,other fuel combustion,55470000.0
+United States,USA,2006,other fuel combustion,60510000.0
+United States,USA,2007,other fuel combustion,56240000.0
+United States,USA,2008,other fuel combustion,53980000.0
+United States,USA,2009,other fuel combustion,50460000.0
+United States,USA,2010,other fuel combustion,52110000.0
+United States,USA,2011,other fuel combustion,48700000.0
+United States,USA,2012,other fuel combustion,46710000.0
+United States,USA,2013,other fuel combustion,50770000.0
+United States,USA,2014,other fuel combustion,48780000.0
+United States,USA,2015,other fuel combustion,48740000.0
+United States,USA,2016,other fuel combustion,46850000.0
+United States,USA,2017,other fuel combustion,46030000.0
+United States,USA,2018,other fuel combustion,46910000.0
+United States,USA,2019,other fuel combustion,39900000.0
+United States,USA,2020,other fuel combustion,36940000.0
+United States,USA,1990,bunker fuels,132080000.0
+United States,USA,1991,bunker fuels,138410000.0
+United States,USA,1992,bunker fuels,145370000.0
+United States,USA,1993,bunker fuels,133740010.0
+United States,USA,1994,bunker fuels,131410000.0
+United States,USA,1995,bunker fuels,139200000.0
+United States,USA,1996,bunker fuels,135900000.0
+United States,USA,1997,bunker fuels,127930000.0
+United States,USA,1998,bunker fuels,127680000.0
+United States,USA,1999,bunker fuels,141820000.0
+United States,USA,2000,bunker fuels,148920000.0
+United States,USA,2001,bunker fuels,115360000.0
+United States,USA,2002,bunker fuels,140130000.0
+United States,USA,2003,bunker fuels,124230000.0
+United States,USA,2004,bunker fuels,142560000.0
+United States,USA,2005,bunker fuels,152930000.0
+United States,USA,2006,bunker fuels,159800000.0
+United States,USA,2007,bunker fuels,169670000.0
+United States,USA,2008,bunker fuels,155530000.0
+United States,USA,2009,bunker fuels,142470000.0
+United States,USA,2010,bunker fuels,150210000.0
+United States,USA,2011,bunker fuels,147010000.0
+United States,USA,2012,bunker fuels,120510000.0
+United States,USA,2013,bunker fuels,119430000.0
+United States,USA,2014,bunker fuels,120070000.0
+United States,USA,2015,bunker fuels,125640000.0
+United States,USA,2016,bunker fuels,138120000.0
+United States,USA,2017,bunker fuels,149620000.0
+United States,USA,2018,bunker fuels,140920000.0
+United States,USA,2019,bunker fuels,150170000.0
+United States,USA,2020,bunker fuels,97070000.0
