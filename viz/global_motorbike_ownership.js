@@ -17,7 +17,7 @@ createMotorbikeBarsGraphic = function () {
   const yScale = d3.scaleLinear().domain([0, 100]).range([height, 0]);
 
   d3.csv(
-    "https://raw.githubusercontent.com/liufran1/DataViz-D3/master/VietnamMotorbikes/data/global_motorbike_ownership.csv",
+    "./data/global_motorbike_ownership.csv",
     d3.autoType,
   ).then(function (ownershipData) {
     initBars(ownershipData);
